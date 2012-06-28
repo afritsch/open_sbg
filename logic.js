@@ -1,28 +1,29 @@
 ﻿$(document).ready(function() {
   /* map configuration */
-  var selector  = document.getElementById('map_canvas');
-  var coords    = new google.maps.LatLng(47.80949,13.05501);
-  var zoom      = 14;
-  var type      = google.maps.MapTypeId.HYBRID;
-  var xmlFile   = 'open_sbg.xml'
+  var canvas  = 'map_canvas';
+  var lat     = 47.80949;
+  var lng     = 13.05501;
+  var zoom    = 14;
+  var type    = google.maps.MapTypeId.HYBRID;
+  var xmlFile = 'open_sbg.xml'
   
   /* initialize map and place markers */
-  OpenSBG.init(selector, coords, zoom, type);
+  OpenSBG.init(canvas, lat, lng, zoom, type);
   OpenSBG.placeMarkers(xmlFile);
 });
 
 var OpenSBG = {
-  map: null,
-	bounds: null,
+  map : null,
+	bounds : null,
 	
-	init : function(selector, coords, zoom, type) {
+	init : function(canvas, lat, lng, zoom, type) {
   	var options = {
-      zoom: zoom,
-      center: coords,
-      mapTypeId: type
+    	center : new google.maps.LatLng(lat, lng),
+      zoom : zoom,
+      mapTypeId : type
     };
     
-    this.map = new google.maps.Map(selector, options);
+    this.map = new google.maps.Map(document.getElementById(canvas), options);
     this.bounds = new google.maps.LatLngBounds();
 	},
 	
