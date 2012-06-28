@@ -1394,14 +1394,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Bolaring</bezeichnung>
-    <OEFFN_ZEIT>Die 14 - 17 Uhr, Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Die 14 - 17 Uhr, Do 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Norbert-Brüll-Str.30</adresse>
-    <TELEFON>0662-428579</TELEFON>
-    <FAX>0662-428579-15</FAX>
-    <EMAIL>bws.maxglan-taxham@inode.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5020 Salzburg</ORT>
-    <KONTAKT>DSA Irmgard Gierer, Christian Reisinger</KONTAKT>
+    <telefon>0662-428579</telefon>
+    <fax>0662-428579-15</fax>
+    <email>bws.maxglan-taxham@inode.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5020 Salzburg</ort>
+    <kontakt>DSA Irmgard Gierer, Christian Reisinger</kontakt>
     <str_nr>1124</str_nr>
     <hnr>30</hnr>
     <sdo_x1>-24149.39</sdo_x1>
@@ -1572,14 +1572,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Gnigl &amp; Schallmoos</bezeichnung>
-    <OEFFN_ZEIT>Mo, Di, Mi, Do 9-13 und Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Mo, Di, Mi, Do 9-13 und Fr 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Leopold-Pfest-Str. 5</adresse>
-    <TELEFON>0662-649140-23 oder -12</TELEFON>
-    <FAX>0662-649140-40</FAX>
-    <EMAIL>bws.gnigl-schallmoos@diakoniewerk.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5023 Salzburg</ORT>
-    <KONTAKT>DSA Mag. Elisabeth Kirchweger, Johanna Landauer</KONTAKT>
+    <telefon>0662-649140-23 oder -12</telefon>
+    <fax>0662-649140-40</fax>
+    <email>bws.gnigl-schallmoos@diakoniewerk.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5023 Salzburg</ort>
+    <kontakt>DSA Mag. Elisabeth Kirchweger, Johanna Landauer</kontakt>
     <str_nr>462</str_nr>
     <hnr>5</hnr>
     <sdo_x1>-19610.42</sdo_x1>
@@ -1590,14 +1590,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Itzling &amp; Elisabeth-Vorstadt</bezeichnung>
-    <OEFFN_ZEIT>Mo 9-12 Uhr, Di 9-12 Uhr, Do 14-17 Uhr, Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Mo 9-12 Uhr, Di 9-12 Uhr, Do 14-17 Uhr, Fr 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Reimsstr. 4</adresse>
-    <TELEFON>0662-455432</TELEFON>
-    <FAX>0662-455433</FAX>
-    <EMAIL>bws.itzling-evorstadt@diakoniewerk.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5020 Salzburg</ORT>
-    <KONTAKT>Ursula Flatscher, Mag. Anne Pichler, Sonja Zlöbl</KONTAKT>
+    <telefon>0662-455432</telefon>
+    <fax>0662-455433</fax>
+    <email>bws.itzling-evorstadt@diakoniewerk.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5020 Salzburg</ort>
+    <kontakt>Ursula Flatscher, Mag. Anne Pichler, Sonja Zlöbl</kontakt>
     <str_nr>513</str_nr>
     <hnr>4</hnr>
     <sdo_x1>-21469.91</sdo_x1>
@@ -1608,14 +1608,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Liefering</bezeichnung>
-    <OEFFN_ZEIT>Mo 14-17 Uhr, Di und Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Mo 14-17 Uhr, Di und Do 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Laufenstr. 36</adresse>
-    <TELEFON>0662-431925</TELEFON>
-    <FAX>0662-431925-17</FAX>
-    <EMAIL>bws.liefering@sbg.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5020 Salzburg</ORT>
-    <KONTAKT>Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</KONTAKT>
+    <telefon>0662-431925</telefon>
+    <fax>0662-431925-17</fax>
+    <email>bws.liefering@sbg.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5020 Salzburg</ort>
+    <kontakt>Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</kontakt>
     <str_nr>451</str_nr>
     <hnr>36</hnr>
     <sdo_x1>-23098.77</sdo_x1>
@@ -1626,14 +1626,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Aigen &amp; Parsch</bezeichnung>
-    <OEFFN_ZEIT>Mo 9-13, Di 9-13 und 14-16 Uhr, Do 13-16, Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Mo 9-13, Di 9-13 und 14-16 Uhr, Do 13-16, Fr 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Aigner Str. 78</adresse>
-    <TELEFON>0662-625008</TELEFON>
-    <FAX>0662-625009</FAX>
-    <EMAIL>bws.aigen-parsch@diakoniewerk.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5026 Salzburg</ORT>
-    <KONTAKT>Johanna Landauer, Mag. FH Sylvia Neureiter</KONTAKT>
+    <telefon>0662-625008</telefon>
+    <fax>0662-625009</fax>
+    <email>bws.aigen-parsch@diakoniewerk.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5026 Salzburg</ort>
+    <kontakt>Johanna Landauer, Mag. FH Sylvia Neureiter</kontakt>
     <str_nr>18</str_nr>
     <hnr>78</hnr>
     <sdo_x1>-18911.25</sdo_x1>
@@ -1644,14 +1644,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Forellenweg</bezeichnung>
-    <OEFFN_ZEIT>Die 14-17 und Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Die 14-17 und Do 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Eugen-Müller-Str.59</adresse>
-    <TELEFON>Tel. 0662-431925</TELEFON>
-    <FAX>Tel. 0662-431925-17</FAX>
-    <EMAIL>bws.liefering@sbg.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5020 Salzburg</ORT>
-    <KONTAKT>: Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</KONTAKT>
+    <telefon>Tel. 0662-431925</telefon>
+    <fax>Tel. 0662-431925-17</fax>
+    <email>bws.liefering@sbg.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5020 Salzburg</ort>
+    <kontakt>: Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</kontakt>
     <str_nr>1013</str_nr>
     <hnr>59</hnr>
     <sdo_x1>-24725.18</sdo_x1>
@@ -1662,14 +1662,14 @@
   <featureMember>
     <bereich>Bewohnerservicestellen</bereich>
     <bezeichnung>BewohnerService Maxglan &amp; Taxham</bezeichnung>
-    <OEFFN_ZEIT>Mo 14-18/str_nr, Die 9-12 und Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+    <oeffn_zeit>Mo 14-18/str_nr, Die 9-12 und Fr 9-12 Uhr, zusätzliche Termine möglich</oeffn_zeit>
     <adresse>Innsbrucker Bundesstr. 36</adresse>
-    <TELEFON>0662-428579</TELEFON>
-    <FAX>0662-428579-15</FAX>
-    <EMAIL>bws.maxglan-taxham@inode.at</EMAIL>
-    <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
-    <ORT>5020 Salzburg</ORT>
-    <KONTAKT>DSA Irmgard Gierer, Christian Reisinger</KONTAKT>
+    <telefon>0662-428579</telefon>
+    <fax>0662-428579-15</fax>
+    <email>bws.maxglan-taxham@inode.at</email>
+    <email>http://www.stadt-salzburg.at/bewohnerservice</email>
+    <ort>5020 Salzburg</ort>
+    <kontakt>DSA Irmgard Gierer, Christian Reisinger</kontakt>
     <str_nr>333</str_nr>
     <hnr>36</hnr>
     <sdo_x1>-23364.15</sdo_x1>
