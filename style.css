@@ -1,0 +1,24 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+#map_canvas {
+  height: 100%;
+}
+
+#header {
+
+}
+
+#footer {
+
+}

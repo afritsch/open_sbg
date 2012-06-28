@@ -1,0 +1,2759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FeatureCollection xmlns="http://www.intergraph.com/geomedia/gml" xmlns:gml="http://www.opengis.net/gml" xmlns:gmgml="http://www.intergraph.com/geomedia/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.intergraph.com/geomedia/gml c:\temp\Öffentliche Einrichtungen.xsd" numberOfFeatures="134">
+  <boundedBy>
+    <Envelope srsName="EPSG:4326">
+      <lowerCorner>47.7633879937696 12.9976156236834</lowerCorner>
+      <upperCorner>47.8370971691102 13.0881475234361</upperCorner>
+    </Envelope>
+  </boundedBy>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.57933">
+      <GDO_GID>57933</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Bestattungsanstalt</BEZEICHNUNG>
+      <ADRESSE>Gneiser Straße 14a</ADRESSE>
+      <STR_NR>230</STR_NR>
+      <HNR>14</HNR>
+      <HNR_ALPHA>A</HNR_ALPHA>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0701" target="_blank"&gt;7/01 Städtische Betriebe&lt;/a&gt; (Bestattungsanstalt)</BESCHREIBUNG>
+      <SDO_X1>-21146.42</SDO_X1>
+      <SDO_Y1>293240.3</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:18</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7774183533045 13.0504202206275</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1005717">
+      <GDO_GID>1005717</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Büro für Kulturelle Sonderprojekte</BEZEICHNUNG>
+      <ADRESSE>Alpenstraße 85, 2.Stock (im Gebäude Autohaus Frey)</ADRESSE>
+      <STR_NR>31</STR_NR>
+      <HNR>85</HNR>
+      <SDO_X1>-19784.58</SDO_X1>
+      <SDO_Y1>293397.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7788759729487 13.0685836762213</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013096">
+      <GDO_GID>1013096</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Volksgartenbad (Städtische Betriebe)</BEZEICHNUNG>
+      <ADRESSE>Hermann-Bahr-Promenade 2</ADRESSE>
+      <STR_NR>297</STR_NR>
+      <HNR>2</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0701" target="_blank"&gt;7/01 - Städtische Betriebe&lt;/a&gt; (Amtsleitung, Eisarena, Freibad Volksgarten)</BESCHREIBUNG>
+      <SDO_X1>-20346.01</SDO_X1>
+      <SDO_Y1>295577.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:52</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7984682899652 13.060988951994</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27618">
+      <GDO_GID>27618</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Franziskanergasse 5A</BEZEICHNUNG>
+      <ADRESSE>Franziskanergasse 5A</ADRESSE>
+      <STR_NR>191</STR_NR>
+      <HNR>5</HNR>
+      <HNR_ALPHA>A</HNR_ALPHA>
+      <BESCHREIBUNG>Abteilung "Kultur- und Sportangelegenheiten" (Abteilung 12)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21599.43</SDO_X1>
+      <SDO_Y1>295522.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:06</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7979260138464 13.0442609401301</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27621">
+      <GDO_GID>27621</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Münchner Bundesstraße 52</BEZEICHNUNG>
+      <ADRESSE>Münchner Bundesstraße 52</ADRESSE>
+      <STR_NR>974</STR_NR>
+      <HNR>52</HNR>
+      <BESCHREIBUNG>Fachabteilung "Autobahnbau" (Abteilung 9)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23742.79</SDO_X1>
+      <SDO_Y1>298277.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:19</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.822633646545 13.0154989262758</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27623">
+      <GDO_GID>27623</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Michael-Pacher-Straße 36</BEZEICHNUNG>
+      <ADRESSE>Michael-Pacher-Straße 36</ADRESSE>
+      <STR_NR>541</STR_NR>
+      <HNR>36</HNR>
+      <BESCHREIBUNG>Abt. "Wasserrecht, Bau-, Feuerpolizei- und Straßenrecht, Energierecht" (Abt. 1); Abt. "Landesbaudirektion" (Abt. 6); Fachabt. "Hochbau" (Abt. 6/1); Fachabt. "Straßenbau" (Abt. 6/2); Fachabt. "Maschinenbau und Elektrotechnik" (Abt. 6/5); Fachabt. "Wasserwirtschaft" (Abt. 6/6); Fachabt. "Verkehrsplanung" (Abt. 6/7); Abt. "Landesplanung und Raumordnung" (Abt. 7); Abt. "Umweltschutz" (Abt. 16) </BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20167.57</SDO_X1>
+      <SDO_Y1>294510.7</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:34</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7888758259514 13.0634210234962</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27629">
+      <GDO_GID>27629</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Mozartplatz 1</BEZEICHNUNG>
+      <ADRESSE>Mozartplatz 1</ADRESSE>
+      <STR_NR>967</STR_NR>
+      <HNR>1</HNR>
+      <BESCHREIBUNG>Abteilung "Finanzen und Liegenschaften" (Abteilung 8); Abteilung "Landesbuchhaltung" (Abteilung 14) </BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21326.42</SDO_X1>
+      <SDO_Y1>295607.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:17</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7987059866208 13.0479008126326</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27632">
+      <GDO_GID>27632</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Chiemseehof</BEZEICHNUNG>
+      <ADRESSE>Pfeifergasse 20</ADRESSE>
+      <STR_NR>590</STR_NR>
+      <HNR>20</HNR>
+      <BESCHREIBUNG>Landesamtsdirektion; 0/1 - Fachabteilung "Legislativ- und Verfassungsdienst"; 0/3 - Fachabteilung "Landespressebüro"; 0/9 - Präsidialabteilung; 0/91 - Fachabteilung "Allgemeine Präsidialangelegenheiten"</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21176.51</SDO_X1>
+      <SDO_Y1>295520.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:51</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7979276383412 13.0499061435381</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27635">
+      <GDO_GID>27635</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Musisches Gymnasium</BEZEICHNUNG>
+      <ADRESSE>Haunspergstrasse 77</ADRESSE>
+      <STR_NR>284</STR_NR>
+      <HNR>77</HNR>
+      <STADTLEBEN_ID>1413</STADTLEBEN_ID>
+      <SDO_X1>-22037.56</SDO_X1>
+      <SDO_Y1>297954</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:30</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8197819326407 13.0382877597798</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27637">
+      <GDO_GID>27637</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>BG Zaunergasse</BEZEICHNUNG>
+      <ADRESSE>Zaunergasse 3</ADRESSE>
+      <STR_NR>862</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>1746919516</STADTLEBEN_ID>
+      <SDO_X1>-23009.82</SDO_X1>
+      <SDO_Y1>296549.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:11</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8071122539504 13.0253800138518</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27642">
+      <GDO_GID>27642</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>BORG Nonntal</BEZEICHNUNG>
+      <ADRESSE>Josef Preis Allee 7</ADRESSE>
+      <STR_NR>361</STR_NR>
+      <HNR>7</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20714.56</SDO_X1>
+      <SDO_Y1>295210.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:24</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7951484883086 13.0560872702261</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27645">
+      <GDO_GID>27645</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>PG Borromäum Salzburg</BEZEICHNUNG>
+      <ADRESSE>Gaisbergstraße 7 </ADRESSE>
+      <STR_NR>197</STR_NR>
+      <HNR>7</HNR>
+      <STADTLEBEN_ID>15</STADTLEBEN_ID>
+      <SDO_X1>-20079.22</SDO_X1>
+      <SDO_Y1>295795.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:50</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.800436511274 13.0645398910704</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27662">
+      <GDO_GID>27662</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Private Bildungsanstalt für Kindergartenpädagogik d.Franziskanerinnen v. Vöcklabruck M.Ö.R.</BEZEICHNUNG>
+      <ADRESSE>Schwarzstraße 35</ADRESSE>
+      <STR_NR>746</STR_NR>
+      <HNR>35</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21983.6</SDO_X1>
+      <SDO_Y1>296444</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:57</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8062032853951 13.0390857833969</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27702">
+      <GDO_GID>27702</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Bundeshandelsakademie und Bundeshandelsschule II</BEZEICHNUNG>
+      <ADRESSE>Johann-Brunauer-Straße 4</ADRESSE>
+      <STR_NR>344</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>545</STADTLEBEN_ID>
+      <SDO_X1>-22274.65</SDO_X1>
+      <SDO_Y1>297169.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:53</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8127217063536 13.0351625173815</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27754">
+      <GDO_GID>27754</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Finanzlandesdirektion - Finanzämter </BEZEICHNUNG>
+      <ADRESSE>Aigner Straße 10</ADRESSE>
+      <STR_NR>18</STR_NR>
+      <HNR>10</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20089.79</SDO_X1>
+      <SDO_Y1>295373.4</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:33</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7966372128155 13.0644186054691</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27762">
+      <GDO_GID>27762</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Rathaus</BEZEICHNUNG>
+      <ADRESSE>Rudolfskai 2</ADRESSE>
+      <STR_NR>663</STR_NR>
+      <HNR>2</HNR>
+      <SDO_X1>-21556.43</SDO_X1>
+      <SDO_Y1>295795</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:14</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8003809654463 13.0448211878143</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27763">
+      <GDO_GID>27763</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Bahnhof</BEZEICHNUNG>
+      <ADRESSE>Südtiroler Platz 1</ADRESSE>
+      <STR_NR>710</STR_NR>
+      <HNR>1</HNR>
+      <SDO_X1>-21536.24</SDO_X1>
+      <SDO_Y1>297212.7</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:50</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8131320642552 13.0450194535657</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27765">
+      <GDO_GID>27765</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Itzling</BEZEICHNUNG>
+      <ADRESSE>Jakob-Haringer-Straße 5a</ADRESSE>
+      <STR_NR>990</STR_NR>
+      <HNR>5</HNR>
+      <HNR_ALPHA>a</HNR_ALPHA>
+      <SDO_X1>-21793.49</SDO_X1>
+      <SDO_Y1>298284.4</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:02</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8227618637464 13.0415301574014</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27767">
+      <GDO_GID>27767</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Nonntal</BEZEICHNUNG>
+      <ADRESSE>Rudolfsplatz 3</ADRESSE>
+      <STR_NR>664</STR_NR>
+      <HNR>3</HNR>
+      <SDO_X1>-20884.6</SDO_X1>
+      <SDO_Y1>295448.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:56</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7972843419146 13.053806096012</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27768">
+      <GDO_GID>27768</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Taxham</BEZEICHNUNG>
+      <ADRESSE>Auer-v.-Welsbach-Straße 4</ADRESSE>
+      <STR_NR>62</STR_NR>
+      <HNR>4</HNR>
+      <SDO_X1>-24559.51</SDO_X1>
+      <SDO_Y1>297160.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:34</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8125504267407 13.0046562143198</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27773">
+      <GDO_GID>27773</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Müllner Hauptstraße (5012)</BEZEICHNUNG>
+      <ADRESSE>Müllner Hauptstraße 48</ADRESSE>
+      <STR_NR>973</STR_NR>
+      <HNR>48</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-22588.31</SDO_X1>
+      <SDO_Y1>296546.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:50</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8071066647556 13.0310074310069</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27775">
+      <GDO_GID>27775</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Lehen (5014)</BEZEICHNUNG>
+      <ADRESSE>Scherzhauserfeldstraße 36</ADRESSE>
+      <STR_NR>719</STR_NR>
+      <HNR>36</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-22843.04</SDO_X1>
+      <SDO_Y1>297362.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:54</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8144301482296 13.0275632674783</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27777">
+      <GDO_GID>27777</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Neutorstraße (5016)</BEZEICHNUNG>
+      <ADRESSE>Neutorstraße 15</ADRESSE>
+      <STR_NR>986</STR_NR>
+      <HNR>15</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-22235.79</SDO_X1>
+      <SDO_Y1>295477.4</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:02</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7975011810129 13.0357691404076</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27589">
+      <GDO_GID>27589</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Leopoldskron-Moos</BEZEICHNUNG>
+      <ADRESSE>Moosstraße 78A</ADRESSE>
+      <STR_NR>555</STR_NR>
+      <HNR>78</HNR>
+      <HNR_ALPHA>A</HNR_ALPHA>
+      <STADTLEBEN_ID>502</STADTLEBEN_ID>
+      <SDO_X1>-23196.11</SDO_X1>
+      <SDO_Y1>293649.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:18</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7810290598683 13.0230496691765</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27592">
+      <GDO_GID>27592</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Maxglan I</BEZEICHNUNG>
+      <ADRESSE>Siezenheimer Straße 14A</ADRESSE>
+      <STR_NR>695</STR_NR>
+      <HNR>14</HNR>
+      <HNR_ALPHA>A</HNR_ALPHA>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23710.12</SDO_X1>
+      <SDO_Y1>296175</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:12</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8037220156585 13.0160514629284</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27594">
+      <GDO_GID>27594</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Morzg</BEZEICHNUNG>
+      <ADRESSE>Gneiser Straße 58</ADRESSE>
+      <STR_NR>230</STR_NR>
+      <HNR>58</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20803.07</SDO_X1>
+      <SDO_Y1>292570.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:25</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7714020270638 13.0550339443954</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27596">
+      <GDO_GID>27596</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Nonntal</BEZEICHNUNG>
+      <ADRESSE>Nonntaler Hauptstraße 3</ADRESSE>
+      <STR_NR>556</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20881.39</SDO_X1>
+      <SDO_Y1>295345.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:17</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.796362587365 13.0538539360661</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27599">
+      <GDO_GID>27599</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Heinrich-Salfenauer-Volksschule</BEZEICHNUNG>
+      <ADRESSE>Meierhofweg 4</ADRESSE>
+      <STR_NR>508</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20713.48</SDO_X1>
+      <SDO_Y1>298256.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:39</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8225506449274 13.055954336894</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27600">
+      <GDO_GID>27600</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule St. Andrä</BEZEICHNUNG>
+      <ADRESSE>Haydnstraße 3</ADRESSE>
+      <STR_NR>285</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21505.74</SDO_X1>
+      <SDO_Y1>296493.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:03</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8066684044251 13.0454627632064</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27602">
+      <GDO_GID>27602</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Hubert-Sattler-Gasse</BEZEICHNUNG>
+      <ADRESSE>Hubert-Sattler-Gasse 4</ADRESSE>
+      <STR_NR>318</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21537.96</SDO_X1>
+      <SDO_Y1>296498.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:13</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8067122830434 13.0450323674796</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27603">
+      <GDO_GID>27603</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Lehen</BEZEICHNUNG>
+      <ADRESSE>Siebenstädterstraße 34</ADRESSE>
+      <STR_NR>691</STR_NR>
+      <HNR>34</HNR>
+      <STADTLEBEN_ID>448</STADTLEBEN_ID>
+      <SDO_X1>-22579.35</SDO_X1>
+      <SDO_Y1>297401.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:32</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8147957095712 13.0310820236769</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27604">
+      <GDO_GID>27604</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Liefering</BEZEICHNUNG>
+      <ADRESSE>Laufenstraße 49</ADRESSE>
+      <STR_NR>451</STR_NR>
+      <HNR>49</HNR>
+      <STADTLEBEN_ID>450</STADTLEBEN_ID>
+      <SDO_X1>-23219.19</SDO_X1>
+      <SDO_Y1>298336.4</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:03</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8231790948362 13.0224880653</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27605">
+      <GDO_GID>27605</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Maxglan I</BEZEICHNUNG>
+      <ADRESSE>Pillweinstraße 18</ADRESSE>
+      <STR_NR>595</STR_NR>
+      <HNR>18</HNR>
+      <STADTLEBEN_ID>320</STADTLEBEN_ID>
+      <SDO_X1>-23169.96</SDO_X1>
+      <SDO_Y1>295673.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:35</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7992333432456 13.0232893717394</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27606">
+      <GDO_GID>27606</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Maxglan II</BEZEICHNUNG>
+      <ADRESSE>Wiesbauerstraße 3</ADRESSE>
+      <STR_NR>848</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>320</STADTLEBEN_ID>
+      <SDO_X1>-23107.33</SDO_X1>
+      <SDO_Y1>295745.4</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:55</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7998804689602 13.024121514572</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27607">
+      <GDO_GID>27607</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Nonntal</BEZEICHNUNG>
+      <ADRESSE>Nonntaler Hauptstraße 5</ADRESSE>
+      <STR_NR>556</STR_NR>
+      <HNR>5</HNR>
+      <STADTLEBEN_ID>981</STADTLEBEN_ID>
+      <SDO_X1>-20883.23</SDO_X1>
+      <SDO_Y1>295318.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:14</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7961214942947 13.0538306821695</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27610">
+      <GDO_GID>27610</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Taxham</BEZEICHNUNG>
+      <ADRESSE>Franz-Linher-Straße 4</ADRESSE>
+      <STR_NR>927</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>467</STADTLEBEN_ID>
+      <SDO_X1>-24620.05</SDO_X1>
+      <SDO_Y1>296963</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:58</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8107745340525 13.0038592175438</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27612">
+      <GDO_GID>27612</GDO_GID>
+      <BEREICH>Sonderschulen</BEREICH>
+      <BEZEICHNUNG>Allgemeine Sonderschule I</BEZEICHNUNG>
+      <ADRESSE>Böhm-Ermolli-Straße 1-3</ADRESSE>
+      <STR_NR>895</STR_NR>
+      <HNR>1</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23126.12</SDO_X1>
+      <SDO_Y1>296238.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:44</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.804318189084 13.0238440957279</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27615">
+      <GDO_GID>27615</GDO_GID>
+      <BEREICH>Sonderschulen</BEREICH>
+      <BEZEICHNUNG>Anna Bertha Königsegg-Schule</BEZEICHNUNG>
+      <ADRESSE>Peter-Pfenninger-Straße 45</ADRESSE>
+      <STR_NR>583</STR_NR>
+      <HNR>45</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-24324.77</SDO_X1>
+      <SDO_Y1>297194.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:36</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8128715156016 13.0077884228119</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27617">
+      <GDO_GID>27617</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Friedensstraße 11</BEZEICHNUNG>
+      <ADRESSE>Friedensstraße 11</ADRESSE>
+      <STR_NR>941</STR_NR>
+      <HNR>11</HNR>
+      <BESCHREIBUNG>Abteilung "Naturschutz" (Abteilung 13)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20135.55</SDO_X1>
+      <SDO_Y1>294155.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:29</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7856786530227 13.0638650568906</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27619">
+      <GDO_GID>27619</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Alpenstraße 96</BEZEICHNUNG>
+      <ADRESSE>Alpenstraße 96</ADRESSE>
+      <STR_NR>31</STR_NR>
+      <HNR>96</HNR>
+      <BESCHREIBUNG>Abteilung "Gemeinden" (Abteilung 11)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-19870.62</SDO_X1>
+      <SDO_Y1>293237</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:09</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7774297869144 13.0674430703322</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27620">
+      <GDO_GID>27620</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Sebastian-Stief-Gasse 2</BEZEICHNUNG>
+      <ADRESSE>Sebastian-Stief-Gasse 2</ADRESSE>
+      <STR_NR>682</STR_NR>
+      <HNR>2</HNR>
+      <BESCHREIBUNG>Abteilung "Gesundheitswesen und Landesanstalten" (Abteilung 9)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21180.29</SDO_X1>
+      <SDO_Y1>295616.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:31</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7987846168779 13.0498509793693</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27622">
+      <GDO_GID>27622</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Fanny-von-Lehnert-Straße 1</BEZEICHNUNG>
+      <ADRESSE>Fanny-von-Lehnert-Straße 1</ADRESSE>
+      <STR_NR>163</STR_NR>
+      <HNR>1</HNR>
+      <BESCHREIBUNG>Abteilung "Sozial- und Wohlfahrtswesen" (Abt. 3); Fachabteilung "Agrarbehörde Salzburg" (Abt. 4/1); Fachabteilung "Landesforstdirektion" (Abt. 4/3); Abteilung "Gewerbe- und Verkehrsrecht" (Abt. 5); Abteilung "Wohnungswesen" (Abt. 10); Abteilung "Wirtschaft, Tourismus und Fremdenverkehr" (Abt. 15) </BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21650.4</SDO_X1>
+      <SDO_Y1>297340</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:54</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.814273089179 13.0434887691963</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27624">
+      <GDO_GID>27624</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Kaigasse 32</BEZEICHNUNG>
+      <ADRESSE>Kaigasse 32</ADRESSE>
+      <STR_NR>375</STR_NR>
+      <HNR>32</HNR>
+      <BESCHREIBUNG>Fachabteilung "Hochschulen, Wissenschaft und Zukunftsfragen" (Fachabteilung 0/92)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21154.8</SDO_X1>
+      <SDO_Y1>295379.3</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:24</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7966557447089 13.0502029113205</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27625">
+      <GDO_GID>27625</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Kaigasse 14</BEZEICHNUNG>
+      <ADRESSE>Kaigasse 14</ADRESSE>
+      <STR_NR>375</STR_NR>
+      <HNR>14</HNR>
+      <BESCHREIBUNG>0/8 - Personalabteilung</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21252.23</SDO_X1>
+      <SDO_Y1>295425.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:37</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7970707072464 13.048900142688</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27626">
+      <GDO_GID>27626</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Kaigasse 14-16</BEZEICHNUNG>
+      <ADRESSE>Kaigasse 14-16</ADRESSE>
+      <STR_NR>375</STR_NR>
+      <HNR>16</HNR>
+      <BESCHREIBUNG>Abteilung "Land- und Forstwirtschaft" (Abteilung 4); Fachabteilung "Landwirtschaftsförderung" (Abteilung 4/2)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21254</SDO_X1>
+      <SDO_Y1>295408.5</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:07</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7969150562259 13.0488773747845</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27628">
+      <GDO_GID>27628</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Mozartplatz 8</BEZEICHNUNG>
+      <ADRESSE>Mozartplatz 8</ADRESSE>
+      <STR_NR>967</STR_NR>
+      <HNR>8</HNR>
+      <BESCHREIBUNG>Abteilung "Bildung, Familie, Gesellschaft" /Abteilung 2)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21257.6</SDO_X1>
+      <SDO_Y1>295650.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:09</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7990878258766 13.0488173427642</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27630">
+      <GDO_GID>27630</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Michael-Pacher-Straße 27</BEZEICHNUNG>
+      <ADRESSE>Michael-Pacher-Straße 27</ADRESSE>
+      <STR_NR>541</STR_NR>
+      <HNR>27</HNR>
+      <BESCHREIBUNG>Fachabteilung "Brückenbau" (Abteilung 6/3)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20232.75</SDO_X1>
+      <SDO_Y1>294476.5</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:32</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.788566168758 13.0625527654752</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27779">
+      <GDO_GID>27779</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Europark (5018)</BEZEICHNUNG>
+      <ADRESSE>Europastraße 1</ADRESSE>
+      <STR_NR>525</STR_NR>
+      <HNR>1</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-24224.72</SDO_X1>
+      <SDO_Y1>297617.4</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:24</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8166751628853 13.0091004080663</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27784">
+      <GDO_GID>27784</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Hauptbahnhof (5020) - Schalterabteilung</BEZEICHNUNG>
+      <ADRESSE>Südtiroler Platz 1</ADRESSE>
+      <STR_NR>710</STR_NR>
+      <HNR>1</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-21546.24</SDO_X1>
+      <SDO_Y1>297212.7</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:50</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8131317255645 13.0448859346912</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27787">
+      <GDO_GID>27787</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Parsch (5025)</BEZEICHNUNG>
+      <ADRESSE>Eberhard-Fugger-Straße 7</ADRESSE>
+      <STR_NR>121</STR_NR>
+      <HNR>7</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-19968.99</SDO_X1>
+      <SDO_Y1>296141.3</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:43</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8035473262756 13.0659952035144</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27353">
+      <GDO_GID>27353</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Mediathek</BEZEICHNUNG>
+      <ADRESSE>Franz-Josef-Straße 4</ADRESSE>
+      <STR_NR>926</STR_NR>
+      <HNR>4</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0203" target="_blank"&gt;2/03 - Stadtbibliothek&lt;/a&gt; (Mediathek)</BESCHREIBUNG>
+      <STADTLEBEN_ID>602</STADTLEBEN_ID>
+      <SDO_X1>-21683.69</SDO_X1>
+      <SDO_Y1>296521.6</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:21</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8069114903583 13.0430856884936</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27501">
+      <GDO_GID>27501</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Berufsfeuerwehr (Feuerwache Maxglan)</BEZEICHNUNG>
+      <ADRESSE>Jägermüllerstraße 3</ADRESSE>
+      <STR_NR>337</STR_NR>
+      <HNR>3</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0105" target="_blank"&gt;1/05 - Feuerwehren&lt;/a&gt; (Berufsfeuerwehr)</BESCHREIBUNG>
+      <STADTLEBEN_ID>1260</STADTLEBEN_ID>
+      <SDO_X1>-23469.96</SDO_X1>
+      <SDO_Y1>295487.8</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:06</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7975504257193 13.0192950488994</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27561">
+      <GDO_GID>27561</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Jugendberatungsstelle BIVAK</BEZEICHNUNG>
+      <ADRESSE>Linzergasse 72</ADRESSE>
+      <STR_NR>475</STR_NR>
+      <HNR>72</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0302" target="_blank"&gt;3/02 Stadtjugendamt&lt;/a&gt; (Bivak.mobil)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21253.46</SDO_X1>
+      <SDO_Y1>296237.3</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:17</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8043690905586 13.0488434870723</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27571">
+      <GDO_GID>27571</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude - Mozartplatz 5 </BEZEICHNUNG>
+      <ADRESSE>Mozartplatz 5 </ADRESSE>
+      <STR_NR>967</STR_NR>
+      <HNR>5</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0100" target="_blank"&gt;1/00 Allgemeine und Bezirksverwaltung&lt;/a&gt; (Altstadtkoordinator); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0200" target="_blank"&gt;2/00 - Kultur- und Schulverwaltung&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21319.6</SDO_X1>
+      <SDO_Y1>295652.1</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:30</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7991037388249 13.0479896491628</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27576">
+      <GDO_GID>27576</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude - Schwarzstraße 44</BEZEICHNUNG>
+      <ADRESSE>Schwarzstraße 44</ADRESSE>
+      <STR_NR>746</STR_NR>
+      <HNR>44</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0100" target="_blank"&gt;1/00 Allgemeine und Bezirksverwaltung&lt;/a&gt; (Abteilungsleitung, Schlichtungsstelle); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0101" target="_blank"&gt;1/01 Amt für öffentliche Ordnung&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0104" target="_blank"&gt;1/04 Gesundheitsamt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0106" target="_blank"&gt;1/06 Strafamt&lt;/a&gt; (Amtsleitung, Verwaltungsstrafen); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0503" target="_blank"&gt;5/03 Amt für Stadtplanung und Verkehr&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-22012.26</SDO_X1>
+      <SDO_Y1>296636.9</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:18</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8079371846158 13.038693263915</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27580">
+      <GDO_GID>27580</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Aigen</BEZEICHNUNG>
+      <ADRESSE>Reinholdgasse 18</ADRESSE>
+      <STR_NR>632</STR_NR>
+      <HNR>18</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-18315.04</SDO_X1>
+      <SDO_Y1>294436.8</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7882672642398 13.0881475234361</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27581">
+      <GDO_GID>27581</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Alfred-Bäck-Volksschule</BEZEICHNUNG>
+      <ADRESSE>Otto-v.-Lilienthal-Straße 1</ADRESSE>
+      <STR_NR>567</STR_NR>
+      <HNR>1</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-24570.08</SDO_X1>
+      <SDO_Y1>296897.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:30</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8101846783427 13.0045301460539</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27583">
+      <GDO_GID>27583</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Herrnau</BEZEICHNUNG>
+      <ADRESSE>Friedensstraße 13</ADRESSE>
+      <STR_NR>941</STR_NR>
+      <HNR>13</HNR>
+      <STADTLEBEN_ID>1539</STADTLEBEN_ID>
+      <SDO_X1>-20223.59</SDO_X1>
+      <SDO_Y1>294161.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:20</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7857307220778 13.062689886262</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27586">
+      <GDO_GID>27586</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Josefiau</BEZEICHNUNG>
+      <ADRESSE>Billrothstraße 4</ADRESSE>
+      <STR_NR>96</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>1335</STADTLEBEN_ID>
+      <SDO_X1>-19413.64</SDO_X1>
+      <SDO_Y1>293540.6</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:20</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7801744163665 13.0735267009814</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27588">
+      <GDO_GID>27588</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Lehen II</BEZEICHNUNG>
+      <ADRESSE>Nelkenstraße 7</ADRESSE>
+      <STR_NR>980</STR_NR>
+      <HNR>7</HNR>
+      <STADTLEBEN_ID>454</STADTLEBEN_ID>
+      <SDO_X1>-22680.88</SDO_X1>
+      <SDO_Y1>297405.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:21</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8148235769276 13.0297261798759</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27590">
+      <GDO_GID>27590</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Liefering I</BEZEICHNUNG>
+      <ADRESSE>Törringstraße 4</ADRESSE>
+      <STR_NR>792</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>102</STADTLEBEN_ID>
+      <SDO_X1>-24321.68</SDO_X1>
+      <SDO_Y1>298466.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:38</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8243080006066 13.0077575694768</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27591">
+      <GDO_GID>27591</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Liefering II</BEZEICHNUNG>
+      <ADRESSE>Laufenstraße 50</ADRESSE>
+      <STR_NR>451</STR_NR>
+      <HNR>50</HNR>
+      <STADTLEBEN_ID>455</STADTLEBEN_ID>
+      <SDO_X1>-23167.23</SDO_X1>
+      <SDO_Y1>298385</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:12</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8236180819038 13.0231793345198</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27593">
+      <GDO_GID>27593</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Maxglan II</BEZEICHNUNG>
+      <ADRESSE>Michaelbeuernstraße 8</ADRESSE>
+      <STR_NR>539</STR_NR>
+      <HNR>8</HNR>
+      <STADTLEBEN_ID>534</STADTLEBEN_ID>
+      <SDO_X1>-23674.38</SDO_X1>
+      <SDO_Y1>296128</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:36</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8033006405244 13.0165311649506</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27595">
+      <GDO_GID>27595</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Mülln</BEZEICHNUNG>
+      <ADRESSE>Augustinergasse 16</ADRESSE>
+      <STR_NR>67</STR_NR>
+      <HNR>16</HNR>
+      <STADTLEBEN_ID>1108</STADTLEBEN_ID>
+      <SDO_X1>-22538.56</SDO_X1>
+      <SDO_Y1>296082.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:49</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8029326419426 13.0316960122496</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27597">
+      <GDO_GID>27597</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Parsch</BEZEICHNUNG>
+      <ADRESSE>Geißmayerstraße 1</ADRESSE>
+      <STR_NR>198</STR_NR>
+      <HNR>1</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-19923.39</SDO_X1>
+      <SDO_Y1>295712.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:40</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7996940328189 13.0666238781814</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27598">
+      <GDO_GID>27598</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Pestalozzistraße</BEZEICHNUNG>
+      <ADRESSE>Pestalozzistraße 4</ADRESSE>
+      <STR_NR>512</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21777.1</SDO_X1>
+      <SDO_Y1>297446.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:54</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8152265947919 13.0417916350653</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27601">
+      <GDO_GID>27601</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Haydntraße</BEZEICHNUNG>
+      <ADRESSE>Haydnstraße 3</ADRESSE>
+      <STR_NR>285</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21495.74</SDO_X1>
+      <SDO_Y1>296493.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:03</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8066687424111 13.0455962655224</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27608">
+      <GDO_GID>27608</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Plainstraße</BEZEICHNUNG>
+      <ADRESSE>Plainstraße 38-40</ADRESSE>
+      <STR_NR>598</STR_NR>
+      <HNR>38</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21843.19</SDO_X1>
+      <SDO_Y1>297402.7</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:43</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8148304038355 13.0409114066762</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27609">
+      <GDO_GID>27609</GDO_GID>
+      <BEREICH>Hauptschulen</BEREICH>
+      <BEZEICHNUNG>Hauptschule Schloßstraße</BEZEICHNUNG>
+      <ADRESSE>Schloßstraße 19</ADRESSE>
+      <STR_NR>732</STR_NR>
+      <HNR>19</HNR>
+      <STADTLEBEN_ID>326</STADTLEBEN_ID>
+      <SDO_X1>-19481.34</SDO_X1>
+      <SDO_Y1>296428.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:31</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8061427709664 13.0724920106286</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27613">
+      <GDO_GID>27613</GDO_GID>
+      <BEREICH>Sonderschulen</BEREICH>
+      <BEZEICHNUNG>Allgemeine Sonderschule II</BEZEICHNUNG>
+      <ADRESSE>Böhm-Ermolli-Straße 1-3</ADRESSE>
+      <STR_NR>895</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23147.12</SDO_X1>
+      <SDO_Y1>296290</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:38</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8047770050613 13.0235609967894</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27051">
+      <GDO_GID>27051</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude - Auerspergstraße 7</BEZEICHNUNG>
+      <ADRESSE>Auerspergstraße 7</ADRESSE>
+      <STR_NR>63</STR_NR>
+      <HNR>7</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0500" target="_blank"&gt;5/00 Raumplanung und Baubehörde&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0501" target="_blank"&gt;5/01 Baurechtsamt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0502" target="_blank"&gt;5/02 Bau- und Feuerpolizeiamt&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21937.94</SDO_X1>
+      <SDO_Y1>296529.3</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:27</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8069720262985 13.039690983739</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27052">
+      <GDO_GID>27052</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Bauhof</BEZEICHNUNG>
+      <ADRESSE>Josef-Brandstätter-Straße 4</ADRESSE>
+      <STR_NR>1098</STR_NR>
+      <HNR>4</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0602" target="_blank"&gt;6/02 Kanal- und Gewässeramt&lt;/a&gt; (Kanalbauregie); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0604" target="_blank"&gt;6/04 Straßen- und Brückenamt&lt;/a&gt; (Straßenbauregie und Straßenreinigung, Öffentliche Beleuchtung)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23022.81</SDO_X1>
+      <SDO_Y1>299050.8</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:01</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8296113192974 13.0250722212696</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27351">
+      <GDO_GID>27351</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Faberhäuser</BEZEICHNUNG>
+      <ADRESSE>Hubert-Sattler-Gasse 5 - 7</ADRESSE>
+      <STR_NR>318</STR_NR>
+      <HNR>7</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD00" target="_blank"&gt;MD/00 Magistratsdirektion&lt;/a&gt; (Wirtschaftsförderung und Bodenpolitik); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD03" target="_blank"&gt;MD/03 Informations- und Kommunikationstechnologie&lt;/a&gt; (Amtsleitung, Informationstechnologie, Telekommunikation); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0103" target="_blank"&gt;1/03 Markt- und Veterinäramt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0400" target="_blank"&gt;4/00 Seniorenheimverwaltung&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0600" target="_blank"&gt;6/00 Bauverwaltung&lt;/a&gt; (Tiefbaukoordinierung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0601" target="_blank"&gt;6/01 Gebäudeverwaltung&lt;/a&gt; (Amtsleitung, Hochbau, Elektroinstallationen, Energiemanagement, Heizungs- und Sanitäreinrichtungen, Übersiedlungen/Inventarisierung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0802" target="_blank"&gt;8/02 Stadtkasse&lt;/a&gt; (Einbringung und Erhebung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0803" target="_blank"&gt;8/03 Stadtsteueramt&lt;/a&gt; (Amtsleitung, Selbstbemessungsabgaben)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21626.53</SDO_X1>
+      <SDO_Y1>296481</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:42</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8065482904839 13.0438508398598</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27356">
+      <GDO_GID>27356</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Friedhofsverwaltung</BEZEICHNUNG>
+      <ADRESSE>Gneiser Straße 8</ADRESSE>
+      <STR_NR>230</STR_NR>
+      <HNR>8</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0704" target="_blank"&gt;7/04 Gartenamt und Friedhofsverwaltung&lt;/a&gt; (Friedhofsverwaltung)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21182.44</SDO_X1>
+      <SDO_Y1>293452.3</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:52</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7793238375605 13.0499291502787</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27451">
+      <GDO_GID>27451</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Freibad und Eislaufhalle Volksgarten</BEZEICHNUNG>
+      <ADRESSE>Hermann-Bahr-Promenade 2</ADRESSE>
+      <STR_NR>297</STR_NR>
+      <HNR>2</HNR>
+      <BESCHREIBUNG>7/01 - Erholungsbetriebe und Kühlhaus</BESCHREIBUNG>
+      <STADTLEBEN_ID>891</STADTLEBEN_ID>
+      <SDO_X1>-20356.01</SDO_X1>
+      <SDO_Y1>295577.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:52</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7984679699212 13.0608554705106</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27556">
+      <GDO_GID>27556</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Kieselgebäude</BEZEICHNUNG>
+      <ADRESSE>Saint-Julien-Straße 20</ADRESSE>
+      <STR_NR>678</STR_NR>
+      <HNR>20</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0102" target="_blank"&gt;1/02 Einwohner- und Standesamt&lt;/a&gt; (Amtsleitung, Wahlangelegenheiten, Meldewesen); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0300" target="_blank"&gt;3/00 Soziales&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0301" target="_blank"&gt;3/01 Sozialamt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0302" target="_blank"&gt;3/02 Stadtjugendamt&lt;/a&gt; (Amtsleitung, Rechtsvertretung, Sozialarbeit, Kindergartenreferat); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0303" target="_blank"&gt;3/03 Wohnungsamt&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>336</STADTLEBEN_ID>
+      <SDO_X1>-21733.58</SDO_X1>
+      <SDO_Y1>296937.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:23</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8106520780849 13.042398540912</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27559">
+      <GDO_GID>27559</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Kurhaus</BEZEICHNUNG>
+      <ADRESSE>Auerspergstraße 2</ADRESSE>
+      <STR_NR>63</STR_NR>
+      <HNR>2</HNR>
+      <BESCHREIBUNG>Kurhausbetriebe</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21896.54</SDO_X1>
+      <SDO_Y1>296509</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:42</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8067908796516 13.0402447232687</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27574">
+      <GDO_GID>27574</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Schloss Hellbrunn</BEZEICHNUNG>
+      <ADRESSE>Fürstenweg 41</ADRESSE>
+      <STR_NR>955</STR_NR>
+      <HNR>41</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0704" target="_blank"&gt;7/04 Gartenamt und Friedhofsverwaltung&lt;/a&gt; (Amtsleitung, Gartenamt, Schloss Hellbrunn)</BESCHREIBUNG>
+      <STADTLEBEN_ID>154</STADTLEBEN_ID>
+      <SDO_X1>-20459.34</SDO_X1>
+      <SDO_Y1>291677.8</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:47</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7633879937696 13.0596622563917</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27577">
+      <GDO_GID>27577</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude - Siezenheimerstraße 20</BEZEICHNUNG>
+      <ADRESSE>Siezenheimerstraße 20</ADRESSE>
+      <STR_NR>695</STR_NR>
+      <HNR>20</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0702" target="_blank"&gt;7/02 Wirtschaftshof&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0703" target="_blank"&gt;7/03 Abfallservice&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23912.27</SDO_X1>
+      <SDO_Y1>296255.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:00</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.804442050065 13.0133483663796</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27578">
+      <GDO_GID>27578</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Schulamt</BEZEICHNUNG>
+      <ADRESSE>Mozartplatz 6</ADRESSE>
+      <STR_NR>967</STR_NR>
+      <HNR>6</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0202" target="_blank"&gt;2/02 - Schulamt&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21280.52</SDO_X1>
+      <SDO_Y1>295674.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:13</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7993038089742 13.0485102034975</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27579">
+      <GDO_GID>27579</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Abfalter</BEZEICHNUNG>
+      <ADRESSE>Dr.-Petter-Straße 21</ADRESSE>
+      <STR_NR>109</STR_NR>
+      <HNR>21</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-18740.21</SDO_X1>
+      <SDO_Y1>295560.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:03</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7983647748347 13.0824241821653</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27582">
+      <GDO_GID>27582</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Gnigl</BEZEICHNUNG>
+      <ADRESSE>Schulstraße 7</ADRESSE>
+      <STR_NR>739</STR_NR>
+      <HNR>7</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-19490.23</SDO_X1>
+      <SDO_Y1>297304.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:36</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8140210218684 13.0723334304371</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27584">
+      <GDO_GID>27584</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Itzling</BEZEICHNUNG>
+      <ADRESSE>Kirchenstraße 24</ADRESSE>
+      <STR_NR>404</STR_NR>
+      <HNR>24</HNR>
+      <STADTLEBEN_ID>1343</STADTLEBEN_ID>
+      <SDO_X1>-21330.66</SDO_X1>
+      <SDO_Y1>298514.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:22</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8248434143549 13.0476995103502</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27587">
+      <GDO_GID>27587</GDO_GID>
+      <BEREICH>Volksschulen</BEREICH>
+      <BEZEICHNUNG>Volksschule Lehen I</BEZEICHNUNG>
+      <ADRESSE>Nelkenstraße 5</ADRESSE>
+      <STR_NR>980</STR_NR>
+      <HNR>5</HNR>
+      <STADTLEBEN_ID>454</STADTLEBEN_ID>
+      <SDO_X1>-22690.13</SDO_X1>
+      <SDO_Y1>297364.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.814457203271 13.0296048255063</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27633">
+      <GDO_GID>27633</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Akademisches Gymnasium - Europagymnasium</BEZEICHNUNG>
+      <ADRESSE>Sinnhubstraße 15</ADRESSE>
+      <STR_NR>697</STR_NR>
+      <HNR>15</HNR>
+      <STADTLEBEN_ID>779</STADTLEBEN_ID>
+      <SDO_X1>-22359.57</SDO_X1>
+      <SDO_Y1>295113.1</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:00</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7942204257263 13.0341359281359</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27634">
+      <GDO_GID>27634</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Christian Doppler Gymnasium</BEZEICHNUNG>
+      <ADRESSE>Franz-Josef-Kai 41          </ADRESSE>
+      <STR_NR>925</STR_NR>
+      <HNR>41</HNR>
+      <STADTLEBEN_ID>1333</STADTLEBEN_ID>
+      <SDO_X1>-22239.39</SDO_X1>
+      <SDO_Y1>296924.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:04</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8105131833275 13.0356460493719</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27636">
+      <GDO_GID>27636</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>BG Nonntal - Europagymnasium</BEZEICHNUNG>
+      <ADRESSE>Josef-Preis-Allee 3</ADRESSE>
+      <STR_NR>361</STR_NR>
+      <HNR>3</HNR>
+      <STADTLEBEN_ID>778</STADTLEBEN_ID>
+      <SDO_X1>-20822.53</SDO_X1>
+      <SDO_Y1>295264.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:42</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7956360224277 13.0546435108295</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27639">
+      <GDO_GID>27639</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>BRG/BORG</BEZEICHNUNG>
+      <ADRESSE>Akademiestraße 21</ADRESSE>
+      <STR_NR>20</STR_NR>
+      <HNR>21</HNR>
+      <STADTLEBEN_ID>438</STADTLEBEN_ID>
+      <SDO_X1>-20657.01</SDO_X1>
+      <SDO_Y1>294844.3</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:49</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.791860441366 13.0568730354279</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27755">
+      <GDO_GID>27755</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Bezirksgericht; Gerichtshof I. Instanz; Staatsanwaltschaft;</BEZEICHNUNG>
+      <ADRESSE>Rudolfsplatz 2</ADRESSE>
+      <STR_NR>664</STR_NR>
+      <HNR>2</HNR>
+      <SDO_X1>-20937.79</SDO_X1>
+      <SDO_Y1>295438.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:02</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7971989515096 13.0530965788775</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27756">
+      <GDO_GID>27756</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Justizanstalt</BEZEICHNUNG>
+      <ADRESSE>Schanzlgasse 1</ADRESSE>
+      <STR_NR>714</STR_NR>
+      <HNR>1</HNR>
+      <SDO_X1>-21008.13</SDO_X1>
+      <SDO_Y1>295393.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:21</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.796791913595 13.0521598990953</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27757">
+      <GDO_GID>27757</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Bezirksmannschaft Salzburg-Umgebung - Kraftfahrzeugzulassungsbehörde</BEZEICHNUNG>
+      <ADRESSE>Karl-Wurmb-Straße 17</ADRESSE>
+      <STR_NR>394</STR_NR>
+      <HNR>17</HNR>
+      <SDO_X1>-21654.44</SDO_X1>
+      <SDO_Y1>297416</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:34</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8149564743078 13.0434309848758</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27758">
+      <GDO_GID>27758</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Bundespolizeidirektion Salzburg; Polizei; Kraftfahrzeugzulassungsbehörde</BEZEICHNUNG>
+      <ADRESSE>Alpenstraße 90</ADRESSE>
+      <STR_NR>31</STR_NR>
+      <HNR>90</HNR>
+      <SDO_X1>-19864.71</SDO_X1>
+      <SDO_Y1>293404.2</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7789337340193 13.067514179982</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27764">
+      <GDO_GID>27764</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Gnigl</BEZEICHNUNG>
+      <ADRESSE>Linzer Bundesstraße 11</ADRESSE>
+      <STR_NR>474</STR_NR>
+      <HNR>11</HNR>
+      <SDO_X1>-20004.93</SDO_X1>
+      <SDO_Y1>296965.8</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:33</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8109615412054 13.0654768997868</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27766">
+      <GDO_GID>27766</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Lehen</BEZEICHNUNG>
+      <ADRESSE>Leonhard-v-Keutschach-Str.4-6</ADRESSE>
+      <STR_NR>460</STR_NR>
+      <HNR>4</HNR>
+      <SDO_X1>-22736.95</SDO_X1>
+      <SDO_Y1>296914.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:34</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.810404764838 13.029003562538</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27769">
+      <GDO_GID>27769</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Polizei Sicherheitsdirektion f. d. Bundesland Salzburg</BEZEICHNUNG>
+      <ADRESSE>Hellbrunner Straße 5</ADRESSE>
+      <STR_NR>295</STR_NR>
+      <HNR>5</HNR>
+      <SDO_X1>-20787.64</SDO_X1>
+      <SDO_Y1>295358.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:56</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7964771804983 13.0551046723701</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27772">
+      <GDO_GID>27772</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Residenzplatz (5010) - Regionalleitung Vertrieb</BEZEICHNUNG>
+      <ADRESSE>Residenzplatz 9</ADRESSE>
+      <STR_NR>638</STR_NR>
+      <HNR>9</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-21354.72</SDO_X1>
+      <SDO_Y1>295571.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:12</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7983803631256 13.0475248569532</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27774">
+      <GDO_GID>27774</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Liefering (5013)</BEZEICHNUNG>
+      <ADRESSE>Lieferinger Hauptstraße 124</ADRESSE>
+      <STR_NR>468</STR_NR>
+      <HNR>124</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-24222.96</SDO_X1>
+      <SDO_Y1>298639.8</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:22</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8258703679681 13.0090661546948</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27776">
+      <GDO_GID>27776</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Taxham (5015)</BEZEICHNUNG>
+      <ADRESSE>Kleßheimer Allee 93</ADRESSE>
+      <STR_NR>408</STR_NR>
+      <HNR>93</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-24534.01</SDO_X1>
+      <SDO_Y1>297073.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:24</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8117689583414 13.0050016568571</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27778">
+      <GDO_GID>27778</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Maxglan (5017)</BEZEICHNUNG>
+      <ADRESSE>Maxglaner Hauptstraße 70</ADRESSE>
+      <STR_NR>501</STR_NR>
+      <HNR>70</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-23528.98</SDO_X1>
+      <SDO_Y1>295869.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:43</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8009775548921 13.0184863540776</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27647">
+      <GDO_GID>27647</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>PG Herz-Jesu Missionare Liefering</BEZEICHNUNG>
+      <ADRESSE>Schönleitenstraße 1</ADRESSE>
+      <STR_NR>735</STR_NR>
+      <HNR>1</HNR>
+      <STADTLEBEN_ID>141</STADTLEBEN_ID>
+      <SDO_X1>-23886.37</SDO_X1>
+      <SDO_Y1>297578.7</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:40</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8163398893414 13.0136204684125</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.46157">
+      <GDO_GID>46157</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Flughafen (5035)</BEZEICHNUNG>
+      <ADRESSE>Innsbrucker Bundesstraße 105</ADRESSE>
+      <STR_NR>333</STR_NR>
+      <HNR>105</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-25097.1</SDO_X1>
+      <SDO_Y1>294813.7</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:43</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7914257592501 12.9976156236834</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27785">
+      <GDO_GID>27785</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Gnigl (5023)</BEZEICHNUNG>
+      <ADRESSE>Versorgungshausstraße 14</ADRESSE>
+      <STR_NR>813</STR_NR>
+      <HNR>14</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-19528.64</SDO_X1>
+      <SDO_Y1>297155.6</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:35</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8126833719339 13.0718273568851</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27783">
+      <GDO_GID>27783</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Itzling (5022)</BEZEICHNUNG>
+      <ADRESSE>Reimsstraße 5</ADRESSE>
+      <STR_NR>513</STR_NR>
+      <HNR>5</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-21507.67</SDO_X1>
+      <SDO_Y1>298466.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:39</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8244093499684 13.04533795217</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27788">
+      <GDO_GID>27788</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Aigen (5026)</BEZEICHNUNG>
+      <ADRESSE>Aigner Straße 78</ADRESSE>
+      <STR_NR>18</STR_NR>
+      <HNR>78</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-18901.25</SDO_X1>
+      <SDO_Y1>293905.3</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:36</TIMESTAMP>
+    /GDO_GIDSDO_Y1  <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7834698943462 13.0803476782806</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27790">
+      <GDO_GID>27790</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Kasern (5028)</BEZEICHNUNG>
+      <ADRESSE>Carl-Zuckmayr-Straße 37</ADRESSE>
+      <STR_NR>1088</STR_NR>
+      <HNR>37</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-20376.59</SDO_X1>
+      <SDO_Y1>299873.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:26</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8370971691102 13.0603762790744</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27793">
+      <GDO_GID>27793</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Alpenstraße (5033)</BEZEICHNUNG>
+      <ADRESSE>Friedensstraße 1</ADRESSE>
+      <STR_NR>941</STR_NR>
+      <HNR>1</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-19951.93</SDO_X1>
+      <SDO_Y1>294181.4</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:51</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7859209759999 13.0663142193424</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27627">
+      <GDO_GID>27627</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Hellbrunner Straße 7</BEZEICHNUNG>
+      <ADRESSE>Hellbrunner Straße 7</ADRESSE>
+      <STR_NR>295</STR_NR>
+      <HNR>7</HNR>
+      <BESCHREIBUNG>0/4 - Fachabteilung "Landes-Europabüro"</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20712.36</SDO_X1>
+      <SDO_Y1>295301.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:17</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7959741870366 13.0561121980909</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27638">
+      <GDO_GID>27638</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>BRG Akademiestrasse 19</BEZEICHNUNG>
+      <ADRESSE>Akademiestrasse 19</ADRESSE>
+      <STR_NR>20</STR_NR>
+      <HNR>19</HNR>
+      <STADTLEBEN_ID>779</STADTLEBEN_ID>
+      <SDO_X1>-20592.85</SDO_X1>
+      <SDO_Y1>294866.8</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:29</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7920648813063 13.0577282629162</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27648">
+      <GDO_GID>27648</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Gymnasium und Oberstufenrealgymnasium St.Ursula Salzburg</BEZEICHNUNG>
+      <ADRESSE>Aignerstraße 135</ADRESSE>
+      <STR_NR>18</STR_NR>
+      <HNR>135</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-18430.83</SDO_X1>
+      <SDO_Y1>292744.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:07:26</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7730410013911 13.0866750810368</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.57932">
+      <GDO_GID>57932</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Haus der Stadtgeschichte</BEZEICHNUNG>
+      <ADRESSE>Glockengasse 8</ADRESSE>
+      <STR_NR>227</STR_NR>
+      <HNR>8</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0201" target="_blank"&gt;2/01 - Stadtarchiv und Statistik&lt;/a&gt;</BESCHREIBUNG>
+      <SDO_X1>-20997.99</SDO_X1>
+      <SDO_Y1>296324.5</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:49</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8051618299355 13.0522496486076</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27631">
+      <GDO_GID>27631</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Pfeifergasse 7</BEZEICHNUNG>
+      <ADRESSE>Pfeifergasse 7</ADRESSE>
+      <STR_NR>590</STR_NR>
+      <HNR>7</HNR>
+      <BESCHREIBUNG>0/2 - Fachabteilung "Landesinformatik"</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21199.75</SDO_X1>
+      <SDO_Y1>295578.4</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7984449043744 13.0495930875345</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27614">
+      <GDO_GID>27614</GDO_GID>
+      <BEREICH>Sonderschulen</BEREICH>
+      <BEZEICHNUNG>Sonderschule für körperbehinderte Kinder</BEZEICHNUNG>
+      <ADRESSE>General-Keyes-Straße 4</ADRESSE>
+      <STR_NR>206</STR_NR>
+      <HNR>4</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-23153.53</SDO_X1>
+      <SDO_Y1>297308.9</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:48</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8139404641404 13.0234204173081</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27616">
+      <GDO_GID>27616</GDO_GID>
+      <BEREICH>Polytechnische Schulen</BEREICH>
+      <BEZEICHNUNG>Polytechnische Schule</BEZEICHNUNG>
+      <ADRESSE>Paris-Lodron-Straße 10</ADRESSE>
+      <STR_NR>571</STR_NR>
+      <HNR>10</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21400.12</SDO_X1>
+      <SDO_Y1>296342.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:38</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.805313912325 13.0468803552271</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27575">
+      <GDO_GID>27575</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Schloss Mirabell</BEZEICHNUNG>
+      <ADRESSE>Mirabellplatz 4</ADRESSE>
+      <STR_NR>546</STR_NR>
+      <HNR>4</HNR>
+      <BESCHREIBUNG>Büros Bürgermeister, Bürgermeister-Stellvertreter und Stadträte; Büros der Gemeinderatsklubs und Fraktionen; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD00" target="_blank"&gt;MD/00 Magistratsdirektion&lt;/a&gt; (Abteilungsleitung, Behindertenbeauftragte, Bürgerservice, Frauenbüro, Integrationsbeauftragte, Jugendbeauftragter, Repräsentation, Facility Management, Zivilrecht); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD01" target="_blank"&gt;MD/01 Gemeinderatskanzlei&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD02" target="_blank"&gt;MD/02 Personalamt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD03" target="_blank"&gt;MD/03 Informations- und Kommunikationstechnologie&lt;/a&gt; (Zentrale Poststelle); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=MD04" target="_blank"&gt;MD/04 Informationszentrum&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0102" target="_blank"&gt;1/02 Einwohner- und Standesamt&lt;/a&gt; (Pass- und Fundwesen, Standesamt); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0700" target="_blank"&gt;7/00 Betriebe&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0800" target="_blank"&gt;8/00 Finanzen&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0801" target="_blank"&gt;8/01 Rechnungswesen&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0802" target="_blank"&gt;8/02 Stadtkasse&lt;/a&gt; (Amtsleitung, Kassa); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0804" target="_blank"&gt;8/04 Grundamt&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>265</STADTLEBEN_ID>
+      <SDO_X1>-21719.9</SDO_X1>
+      <SDO_Y1>296389.2</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-29T09:22:39</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8057194851281 13.0426089837797</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013143">
+      <GDO_GID>1013143</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Bolaring</BEZEICHNUNG>
+      <OEFFN_ZEIT>Die 14 - 17 Uhr, Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Norbert-Brüll-Str.30</ADRESSE>
+      <TELEFON>0662-428579</TELEFON>
+      <FAX>0662-428579-15</FAX>
+      <EMAIL>bws.maxglan-taxham@inode.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5020 Salzburg</ORT>
+      <KONTAKT>DSA Irmgard Gierer, Christian Reisinger</KONTAKT>
+      <STR_NR>1124</STR_NR>
+      <HNR>30</HNR>
+      <SDO_X1>-24149.39</SDO_X1>
+      <SDO_Y1>297294.5</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:10</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.813773961572 13.0101244503832</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27301">
+      <GDO_GID>27301</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Faberhäuser</BEZEICHNUNG>
+      <ADRESSE>Franz-Josef-Straße 8</ADRESSE>
+      <STR_NR>926</STR_NR>
+      <HNR>8</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0601" target="_blank"&gt;6/01 Gebäudeverwaltung&lt;/a&gt; (Gebäudereinigung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0803" target="_blank"&gt;8/03 Stadtsteueramt&lt;/a&gt; (Haus und Grundbesitzabgaben, Abgabenprüfung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=KA00" target="_blank"&gt;Kontrollamt&lt;/a&gt;</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21649.78</SDO_X1>
+      <SDO_Y1>296536.2</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:02</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8070439536956 13.0435376593592</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27251">
+      <GDO_GID>27251</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Faberhäuser</BEZEICHNUNG>
+      <ADRESSE>Faberstraße 9 - 11</ADRESSE>
+      <STR_NR>159</STR_NR>
+      <HNR>11</HNR>
+      <BESCHREIBUNG>Gewerkschaft der Gemeindebediensteten; Personalvertretung; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0106" target="_blank"&gt;1/06 Strafamt&lt;/a&gt; (Parkraumbewirtschaftung); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0600" target="_blank"&gt;6/00 Bauverwaltung&lt;/a&gt; (Abteilungsleitung, Radverkehrskoordination, Baucontrolling); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0602" target="_blank"&gt;6/02 Kanal- und Gewässeramt&lt;/a&gt; (Amtsleitung, Kanalverwaltung, Bergskarpierung, Abwasserbeseitigung, Wasserbau/Wasserwirtschaft); &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0603" target="_blank"&gt;6/03 Vermessungsamt&lt;/a&gt;; &lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0604" target="_blank"&gt;6/04 Straßen- und Brückenamt&lt;/a&gt; (Amtsleitung, Straßenbauverwaltung, Verkehrssteuerungsanlagen)</BESCHREIBUNG>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-21618.35</SDO_X1>
+      <SDO_Y1>296540.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:40</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8070836955511 13.0439570431971</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27643">
+      <GDO_GID>27643</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Wirtschaftkundliches BRG</BEZEICHNUNG>
+      <ADRESSE>Josef-Preis-Allee 5</ADRESSE>
+      <STR_NR>361</STR_NR>
+      <HNR>5</HNR>
+      <STADTLEBEN_ID>-1</STADTLEBEN_ID>
+      <SDO_X1>-20744.9</SDO_X1>
+      <SDO_Y1>295223.1</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:24</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7952644184457 13.0556816841975</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27664">
+      <GDO_GID>27664</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>HBLA Annahof</BEZEICHNUNG>
+      <ADRESSE>Guggenmoosstraße 44</ADRESSE>
+      <STR_NR>258</STR_NR>
+      <HNR>44</HNR>
+      <BESCHREIBUNG>Höhere Bundeslehranstalt u. Bundesfachschule für wirtschaftl. Berufe u. Bundesfachschule f. Mode u. Bekleidungstechnik</BESCHREIBUNG>
+      <STADTLEBEN_ID>361</STADTLEBEN_ID>
+      <SDO_X1>-23303.5</SDO_X1>
+      <SDO_Y1>296991.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:54</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8110776918207 13.0214352724749</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27701">
+      <GDO_GID>27701</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Bundeshandelsakademie und Bundeshandelsschule I</BEZEICHNUNG>
+      <ADRESSE>Johann-Brunauer-Straße 4</ADRESSE>
+      <STR_NR>344</STR_NR>
+      <HNR>4</HNR>
+      <SDO_X1>-22284.65</SDO_X1>
+      <SDO_Y1>297169.9</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:53</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8127213562006 13.0350289996772</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27753">
+      <GDO_GID>27753</GDO_GID>
+      <BEREICH>Gymnasien (BHS)</BEREICH>
+      <BEZEICHNUNG>Höhere Technische Bundeslehranstalt Salzburg</BEZEICHNUNG>
+      <ADRESSE>Itzlinger Hauptstraße 30</ADRESSE>
+      <STR_NR>336</STR_NR>
+      <HNR>30</HNR>
+      <STADTLEBEN_ID>818</STADTLEBEN_ID>
+      <SDO_X1>-21479.88</SDO_X1>
+      <SDO_Y1>298156.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:36</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8216195419621 13.0457246482085</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27789">
+      <GDO_GID>27789</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Schrannengasse (5027)</BEZEICHNUNG>
+      <ADRESSE>Schrannengasse 10c</ADRESSE>
+      <STR_NR>738</STR_NR>
+      <HNR>10</HNR>
+      <HNR_ALPHA>c</HNR_ALPHA>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-21427.82</SDO_X1>
+      <SDO_Y1>296421.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:42</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8060171893905 13.0465066484226</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.27791">
+      <GDO_GID>27791</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Nonntal (5032)</BEZEICHNUNG>
+      <ADRESSE>Nonntaler Hauptstraße 12</ADRESSE>
+      <STR_NR>556</STR_NR>
+      <HNR>12</HNR>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-21052.86</SDO_X1>
+      <SDO_Y1>295232.2</SDO_Y1>
+      <USR_ID>MD06026</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:07</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7953361447903 13.0515707971791</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.46154">
+      <GDO_GID>46154</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Postamt Morzg (5034)</BEZEICHNUNG>
+      <ADRESSE>Gneiser Straße 62a</ADRESSE>
+      <STR_NR>230</STR_NR>
+      <HNR>62</HNR>
+      <HNR_ALPHA>A</HNR_ALPHA>
+      <BESCHREIBUNG>Österreichische Post AG</BESCHREIBUNG>
+      <SDO_X1>-20755.84</SDO_X1>
+      <SDO_Y1>292498.3</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:22</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7707578139466 13.0556675222516</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.56450">
+      <GDO_GID>56450</GDO_GID>
+      <BEREICH>Amtsgebäude Landesregierung</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude Schießstattstraße 2</BEZEICHNUNG>
+      <ADRESSE>Schießstattstraße 2</ADRESSE>
+      <STR_NR>721</STR_NR>
+      <HNR>2</HNR>
+      <BESCHREIBUNG>"Referat Erwachsenenbildung · Bildungsmedien" und "Zentrum für Kindergartenpädagogik des Referats Kindergärten und Horte" (beide Abt. 2 - Bildung, Familie, Gesellschaft)</BESCHREIBUNG>
+      <SDO_X1>-22316.89</SDO_X1>
+      <SDO_Y1>297037.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:21</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.811529458252 13.0346054322494</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1005714">
+      <GDO_GID>1005714</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Berufsfeuerwehr (Feuerwache Schallmoos)</BEZEICHNUNG>
+      <ADRESSE>Schallmooser Hauptstraße 52</ADRESSE>
+      <STR_NR>713</STR_NR>
+      <HNR>52</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0105" target="_blank"&gt;1/05 - Feuerwehren&lt;/a&gt;</BESCHREIBUNG>
+      <SDO_X1>-20298.02</SDO_X1>
+      <SDO_Y1>296566.5</SDO_Y1>
+      <USR_ID>MD06025</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:51</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8073610466531 13.0615826810324</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013117">
+      <GDO_GID>1013117</GDO_GID>
+      <BEREICH>Amtsgebäude Magistrat</BEREICH>
+      <BEZEICHNUNG>Amtsgebäude - Markus-Sittikus-Straße 4</BEZEICHNUNG>
+      <ADRESSE>Markus-Sittikus-Straße 4</ADRESSE>
+      <STR_NR>495</STR_NR>
+      <HNR>4</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0504" target="_blank"&gt;5/04 - Verkehrs- und Straßenrechtsamt&lt;/a&gt;</BESCHREIBUNG>
+      <SDO_X1>-21955.33</SDO_X1>
+      <SDO_Y1>296578.6</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:08:13</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8074148172721 13.0394562968609</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013157">
+      <GDO_GID>1013157</GDO_GID>
+      <BEREICH>Sonstige</BEREICH>
+      <BEZEICHNUNG>Freiwillige Feuerwehr</BEZEICHNUNG>
+      <ADRESSE>Kirchenstraße 16</ADRESSE>
+      <STR_NR>404</STR_NR>
+      <HNR>16</HNR>
+      <BESCHREIBUNG>&lt;a href="http://www.stadt-salzburg.at/cmsscripts/amt.asp?kuerzel=0105" target="_blank"&gt;1/05 - Feuerwehren&lt;/a&gt; (Freiwillige Feuerwehr)</BESCHREIBUNG>
+      <SDO_X1>-21436.6</SDO_X1>
+      <SDO_Y1>298399.4</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:13:02</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8238082726429 13.0462904361039</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013138">
+      <GDO_GID>1013138</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Gnigl &amp; Schallmoos</BEZEICHNUNG>
+      <OEFFN_ZEIT>Mo, Di, Mi, Do 9-13 und Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Leopold-Pfest-Str. 5</ADRESSE>
+      <TELEFON>0662-649140-23 oder -12</TELEFON>
+      <FAX>0662-649140-40</FAX>
+      <EMAIL>bws.gnigl-schallmoos@diakoniewerk.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5023 Salzburg</ORT>
+      <KONTAKT>DSA Mag. Elisabeth Kirchweger, Johanna Landauer</KONTAKT>
+      <STR_NR>462</STR_NR>
+      <HNR>5</HNR>
+      <SDO_X1>-19610.42</SDO_X1>
+      <SDO_Y1>297421.1</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:46</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8150686908634 13.0707232782396</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013139">
+      <GDO_GID>1013139</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Itzling &amp; Elisabeth-Vorstadt</BEZEICHNUNG>
+      <OEFFN_ZEIT>Mo 9-12 Uhr, Di 9-12 Uhr, Do 14-17 Uhr, Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Reimsstr. 4</ADRESSE>
+      <TELEFON>0662-455432</TELEFON>
+      <FAX>0662-455433</FAX>
+      <EMAIL>bws.itzling-evorstadt@diakoniewerk.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5020 Salzburg</ORT>
+      <KONTAKT>Ursula Flatscher, Mag. Anne Pichler, Sonja Zlöbl</KONTAKT>
+      <STR_NR>513</STR_NR>
+      <HNR>4</HNR>
+      <SDO_X1>-21469.91</SDO_X1>
+      <SDO_Y1>298485.1</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:14</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8245779092124 13.0458412959224</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013140">
+      <GDO_GID>1013140</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Liefering</BEZEICHNUNG>
+      <OEFFN_ZEIT>Mo 14-17 Uhr, Di und Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Laufenstr. 36</ADRESSE>
+      <TELEFON>0662-431925</TELEFON>
+      <FAX>0662-431925-17</FAX>
+      <EMAIL>bws.liefering@sbg.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5020 Salzburg</ORT>
+      <KONTAKT>Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</KONTAKT>
+      <STR_NR>451</STR_NR>
+      <HNR>36</HNR>
+      <SDO_X1>-23098.77</SDO_X1>
+      <SDO_Y1>298190.8</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:12:48</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8218739960229 13.0241040544648</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013137">
+      <GDO_GID>1013137</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Aigen &amp; Parsch</BEZEICHNUNG>
+      <OEFFN_ZEIT>Mo 9-13, Di 9-13 und 14-16 Uhr, Do 13-16, Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Aigner Str. 78</ADRESSE>
+      <TELEFON>0662-625008</TELEFON>
+      <FAX>0662-625009</FAX>
+      <EMAIL>bws.aigen-parsch@diakoniewerk.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5026 Salzburg</ORT>
+      <KONTAKT>Johanna Landauer, Mag. FH Sylvia Neureiter</KONTAKT>
+      <STR_NR>18</STR_NR>
+      <HNR>78</HNR>
+      <SDO_X1>-18911.25</SDO_X1>
+      <SDO_Y1>293905.3</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:09:36</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.7834695968821 13.08021423499</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013141">
+      <GDO_GID>1013141</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Forellenweg</BEZEICHNUNG>
+      <OEFFN_ZEIT>Die 14-17 und Do 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Eugen-Müller-Str.59</ADRESSE>
+      <TELEFON>Tel. 0662-431925</TELEFON>
+      <FAX>Tel. 0662-431925-17</FAX>
+      <EMAIL>bws.liefering@sbg.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5020 Salzburg</ORT>
+      <KONTAKT>: Mag. Herta Liko-Kirchmayr, Mag. DSA Silvia Burner-Müller</KONTAKT>
+      <STR_NR>1013</STR_NR>
+      <HNR>59</HNR>
+      <SDO_X1>-24725.18</SDO_X1>
+      <SDO_Y1>299565.8</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:11:55</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8341791913354 13.0023055487526</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+  <featureMember>
+    <EINRICHT.ER_AEMTER_PG id="EINRICHT.ER_AEMTER_PG.1013142">
+      <GDO_GID>1013142</GDO_GID>
+      <BEREICH>Bewohnerservicestellen</BEREICH>
+      <BEZEICHNUNG>BewohnerService Maxglan &amp; Taxham</BEZEICHNUNG>
+      <OEFFN_ZEIT>Mo 14-18/STR_NR, Die 9-12 und Fr 9-12 Uhr, zusätzliche Termine möglich</OEFFN_ZEIT>
+      <ADRESSE>Innsbrucker Bundesstr. 36</ADRESSE>
+      <TELEFON>0662-428579</TELEFON>
+      <FAX>0662-428579-15</FAX>
+      <EMAIL>bws.maxglan-taxham@inode.at</EMAIL>
+      <WEBSPACE>http://www.stadt-salzburg.at/bewohnerservice</WEBSPACE>
+      <ORT>5020 Salzburg</ORT>
+      <KONTAKT>DSA Irmgard Gierer, Christian Reisinger</KONTAKT>
+      <STR_NR>333</STR_NR>
+      <HNR>36</HNR>
+      <SDO_X1>-23364.15</SDO_X1>
+      <SDO_Y1>296354.5</SDO_Y1>
+      <USR_ID>13944</USR_ID>
+      <TIMESTAMP>2012-03-22T15:10:37</TIMESTAMP>
+      <GEOMETRY1>
+        <Point srsName="EPSG:4326">
+          <pos>47.8053491735769 13.0206601949823</pos>
+        </Point>
+      </GEOMETRY1>
+    </EINRICHT.ER_AEMTER_PG>
+  </featureMember>
+</FeatureCollection>
