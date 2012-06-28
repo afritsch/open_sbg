@@ -28,19 +28,19 @@ var OpenSBG = {
 	
 	placeMarkers : function(filename) {
   	$.get(filename, function(xml) {
-  		$(xml).find('gml\\:featureMember').each(function() {
+  		$(xml).find('gml\\:featureMember, featureMember').each(function() {
   			/* read info */
-  			var bereich = $(this).find('gmgml\\:BEREICH').text();
-  			var bezeichnung = $(this).find('gmgml\\:BEZEICHNUNG').text();
-  			var adresse = $(this).find('gmgml\\:ADRESSE').text();
-  			var beschreibung = $(this).find('gmgml\\:BESCHREIBUNG').text();
+  			var bereich = $(this).find('gmgml\\:BEREICH, BEREICH').text();
+  			var bezeichnung = $(this).find('gmgml\\:BEZEICHNUNG, BEZEICHNUNG').text();
+  			var adresse = $(this).find('gmgml\\:ADRESSE, ADRESSE').text();
+  			var beschreibung = $(this).find('gmgml\\:BESCHREIBUNG, BESCHREIBUNG').text();
   			
   			/* determine latitude and longitude */
-  			var position = $(this).find('gml\\:pos').text();
-  			var delimiter = pos.indexOf(' ');
+  			var position = $(this).find('gml\\:pos, pos').text();
+  			var delimiter = position.indexOf(' ');
   			
-  			var lat = pos.substr(0, delimiter);
-  			var lng = pos.substr(delimiter + 1, pos.length);
+  			var lat = position.substr(0, delimiter);
+  			var lng = position.substr(delimiter + 1, position.length);
   			
   			/* place marker */
   			var point = new google.maps.LatLng(parseFloat(lat), parseFloat(lng));
