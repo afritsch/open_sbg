@@ -73,6 +73,7 @@ var OpenSBG = {
         object.fax = $(this).find('gmgml\\:FAX, FAX').text();
         object.email = $(this).find('gmgml\\:EMAIL, EMAIL').text();
         object.webspace = $(this).find('gmgml\\:WEBSPACE, WEBSPACE').text();
+        object.oeffnungszeiten = $(this).find('gmgml\\:OEFFN_ZEIT, OEFFN_ZEIT').text();
         object.timestamp = new Date($(this).find('gmgml\\:TIMESTAMP, TIMESTAMP').text());
 
         /* determine latitude and longitude */
@@ -168,6 +169,8 @@ var OpenSBG = {
       html += 'E-Mail: ' + object.email + '<br />';
     if(object.webspace)
       html += '<p><a href="' + object.webspace + '">' + object.webspace + '</a></p>';
+    if(object.oeffnungszeiten)
+      html += '<p>Öffnungszeiten:<br />' + object.oeffnungszeiten + '</p>';
     html += '<p>zuletzt geändert: ' + object.timestamp + '</p>';
 
     return html;
