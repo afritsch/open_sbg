@@ -20,7 +20,17 @@
       OpenSBG
     </div>
     <div id="map_canvas"></div>
-    <div id="sidebar"></div>
+    <div id="sidebar">
+      <div id="selector">
+        <a id="defaultView">Standard-Ansicht wählen</a>
+        <form  action ="index.html">
+          <input class="checkbox" type="checkbox" name="police" value="police"> Polizei
+          <input class="checkbox" type="checkbox" name="all" value="all"> Alle
+        </form>
+      </div>
+      <div id="info">
+      </div>
+    </div>
     <div id="footer">
       marker icons by mapicons.nicolasmollet.com
     </div>

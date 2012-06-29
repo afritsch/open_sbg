@@ -17,6 +17,11 @@
   /* initialize map and place markers */
   OpenSBG.init(canvas, lat, lng, zoom, type);
   OpenSBG.placeMarkers(xmlFile);
+  
+  /* show default view */
+  $("#defaultView").click(function() {
+    OpenSBG.defaultView(zoom);  
+  });
 });
 
 var OpenSBG = {
@@ -32,7 +37,25 @@ var OpenSBG = {
   	};
   	
   	this.map = new google.maps.Map(document.getElementById(canvas), options);
-  	this.bounds = new google.maps.LatLngBounds();  
+  	this.bounds = new google.maps.LatLngBounds();
+  	
+  	OpenSBG.defaultView(zoom);
+  },
+  
+  defaultView : function(zoom) {
+    OpenSBG.map.fitBounds(OpenSBG.bounds); 
+    
+    var zoomChangeBoundsListener = google.maps.event.addListenerOnce(OpenSBG.map, 'bounds_changed', function(event) {
+      if(OpenSBG.map.getZoom())
+        OpenSBG.map.setZoom(zoom);
+    });
+    
+    setTimeout(function() {
+      google.maps.event.removeListener(zoomChangeBoundsListener)
+    }, 2000);
+    
+    if(OpenSBG.infowindow)
+        OpenSBG.infowindow.close();
   },
   
   placeMarkers : function(filename) {
@@ -98,7 +121,7 @@ var OpenSBG = {
   		icon : object.image
   	});
   	
-    google.maps.event.addListener(marker, 'click', function() {
+    var markerClickListener = google.maps.event.addListener(marker, 'click', function() {
       /* info window on click */
       if(OpenSBG.infowindow)
         OpenSBG.infowindow.close();
