@@ -103,7 +103,17 @@ var OpenSBG = {
   			else if(object.bezeichnung.indexOf('Postamt') != -1)
   				object.image += 'post.png';
   			else if(object.bezeichnung.toLowerCase().indexOf('feuerwehr') != -1)
-  				object.image += 'firestation.png' 
+  				object.image += 'firestation.png'
+  		  else if(object.bezeichnung.indexOf('Kraftfahrzeugzulassungsbehörde') != -1)
+  		    object.image += 'truck.png';
+  		  else if(object.bezeichnung.indexOf('Kurhaus') != -1)
+  		    object.image += 'kurhaus.png';
+  		  else if(object.bezeichnung.indexOf('Freibad') != -1)
+  		    object.image += 'swimming.png';
+  		  else if(object.bezeichnung.indexOf('Gericht') != -1 || object.bezeichnung.indexOf('Justiz') != -1)
+  		    object.image += 'justice.png';
+  		  else if(object.bezeichnung.indexOf('Finanz') != -1)
+  		    object.image += 'finance.png';
   			else
   				object.image += 'default.png';
         
@@ -121,7 +131,7 @@ var OpenSBG = {
   		icon : object.image
   	});
   	
-    var markerClickListener = google.maps.event.addListener(marker, 'click', function() {
+    google.maps.event.addListener(marker, 'click', function() {
       /* info window on click */
       if(OpenSBG.infowindow)
         OpenSBG.infowindow.close();
