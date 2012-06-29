@@ -1,6 +1,4 @@
-﻿var infowindow;
-
-$(document).ready(function() {
+﻿$(document).ready(function() {
   /* map configuration */
 	var canvas	= 'map_canvas';
 	var lat			= 47.80949;
@@ -24,6 +22,7 @@ $(document).ready(function() {
 var OpenSBG = {
   map : null,
   bounds : null,
+  infowindow : null,
   
   init : function(canvas, lat, lng, zoom, type) {
     var options = {
@@ -101,11 +100,11 @@ var OpenSBG = {
   	
     google.maps.event.addListener(marker, 'click', function() {
       /* info window on click */
-      if(infowindow)
-        infowindow.close();
+      if(OpenSBG.infowindow)
+        OpenSBG.infowindow.close();
         
-      infowindow = new google.maps.InfoWindow({content: object.bezeichnung});
-      infowindow.open(OpenSBG.map, marker);
+      OpenSBG.infowindow = new google.maps.InfoWindow({content: object.bezeichnung});
+      OpenSBG.infowindow.open(OpenSBG.map, marker);
       
       /* sidebar info on click */
       $("#info").html(OpenSBG.showSidebarInfo(object));
