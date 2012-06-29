@@ -12,14 +12,25 @@ body {
 }
 
 #map_canvas {
-  width: 100%;
-  height: 100%;
+  float:left;
+  width: 70%;
+  height: 85%;
+}
+
+#sidebar {
+  float: left;
+  width: 30%;
+  height: 85%;
+  background: #fc0;
 }
 
 #header {
-
+  height: 5%;
+  background: #f00;
 }
 
 #footer {
-
+  clear:both;
+  height: 10%;
+  background: #0f0;
 }
