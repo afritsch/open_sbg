@@ -1,8 +1,8 @@
 ﻿<?php
 
-require_once('Database.class.php');
-
 header('content-type: text/html; charset=utf-8');
+
+require_once('Database.class.php');
 
 $object_id = intval($_GET['q']);
 
