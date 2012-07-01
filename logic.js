@@ -19,8 +19,12 @@
   OpenSBG.placeMarkers(xmlFile);
 
   /* show default view */
-  $("#defaultView").click(function() {
+  $('#defaultView').click(function() {
     OpenSBG.defaultView(zoom);
+  });
+  
+  $('.checkbox').change(function() {      
+    $(this).is(':checked') ? OpenSBG.show($(this).val()) : OpenSBG.hide($(this).val());
   });
 });
 
@@ -28,8 +32,9 @@ var OpenSBG = {
   map : null,
   bounds : null,
   infowindow : null,
+  array : new Array(),
 
-  init : function(canvas, lat, lng, zoom, type) {
+  init : function(canvas, lat, lng, zoom, type) {    
     var options = {
       center : new google.maps.LatLng(lat, lng),
       zoom : zoom,
@@ -58,7 +63,7 @@ var OpenSBG = {
   },
 
   placeMarkers : function(filename) {
-    $.get(filename, function(xml) {
+    $.get(filename, function(xml) {    
       $(xml).find('gml\\:featureMember, featureMember').each(function() {
         var object = new Object();
 
@@ -74,7 +79,6 @@ var OpenSBG = {
         object.email = $(this).find('gmgml\\:EMAIL, EMAIL').text();
         object.webspace = $(this).find('gmgml\\:WEBSPACE, WEBSPACE').text();
         object.oeffnungszeiten = $(this).find('gmgml\\:OEFFN_ZEIT, OEFFN_ZEIT').text();
-        object.timestamp = new Date($(this).find('gmgml\\:TIMESTAMP, TIMESTAMP').text());
 
         /* determine latitude and longitude */
         object.position = $(this).find('gml\\:pos, pos').text();
@@ -85,37 +89,38 @@ var OpenSBG = {
 
         object.point = new google.maps.LatLng(object.lat, object.lng);
 
-        /* choose correct marker image */
-        object.image = 'markers/';
-
+        /* assign the object to a category */
         if(object.bereich.indexOf('Amtsgebäude') != -1)
-          object.image += 'administration.png';
+          object.category = 'administration';
         else if(object.bereich.indexOf('Bewohnerservicestellen') != -1)
-          object.image += 'service.png';
+          object.category = 'service';
         else if(object.bereich.indexOf('Gymnasien') != -1)
-          object.image += 'gym.png';
+          object.category = 'gym';
         else if(object.bereich.indexOf('Sonderschulen') != -1)
-          object.image += 'specialschool.png';
+          object.category = 'specialschool';
         else if(object.bereich.indexOf('Hauptschulen') != -1 || object.bereich.indexOf('Volksschulen') != -1 || object.bereich.indexOf('Polytechnische') != -1)
-          object.image += 'school.png';
+          object.category = 'school';
         else if(object.bezeichnung.indexOf('Polizei') != -1)
-          object.image += 'police.png';
+          object.category = 'police';
         else if(object.bezeichnung.indexOf('Postamt') != -1)
-          object.image += 'post.png';
+          object.category = 'post';
         else if(object.bezeichnung.toLowerCase().indexOf('feuerwehr') != -1)
-          object.image += 'firestation.png';
+          object.category = 'firestation';
         else if(object.bezeichnung.indexOf('Kraftfahrzeugzulassungsbehörde') != -1)
-          object.image += 'truck.png';
+          object.category = 'truck';
         else if(object.bezeichnung.indexOf('Kurhaus') != -1)
-          object.image += 'kurhaus.png';
+          object.category = 'kurhaus';
         else if(object.bezeichnung.indexOf('Freibad') != -1)
-          object.image += 'swimming.png';
+          object.category = 'swimming';
         else if(object.bezeichnung.indexOf('Gericht') != -1 || object.bezeichnung.indexOf('Justiz') != -1)
-          object.image += 'justice.png';
+          object.category = 'justice';
         else if(object.bezeichnung.indexOf('Finanz') != -1)
-          object.image += 'finance.png';
+          object.category = 'finance';
         else
-          object.image += 'default.png';
+          object.category += 'default';
+          
+        /* choose correct marker image */
+        object.image = 'markers/' + object.category + '.png';
 
         /* create marker */
         OpenSBG.map.addMarker(OpenSBG.createMarker(object, object.point));
@@ -123,13 +128,19 @@ var OpenSBG = {
       });
     });
   },
-
+  
   createMarker : function(object, point) {
     var marker = new google.maps.Marker({
-      position: point,
-      map: OpenSBG.map,
-      icon: object.image
+      position : point,
+      map : OpenSBG.map,
+      icon : object.image
     });
+    
+    /* store the category of the object*/
+    marker.category = object.category;
+    
+    /* push the marker in a marker array */
+    OpenSBG.array.push(marker);
 
     google.maps.event.addListener(marker, 'click', function() {
       /* info window on click */
@@ -137,7 +148,7 @@ var OpenSBG = {
         OpenSBG.infowindow.close();
 
       OpenSBG.infowindow = new google.maps.InfoWindow({
-        content: object.bezeichnung
+        content : object.bezeichnung
       });
       OpenSBG.infowindow.open(OpenSBG.map, marker);
 
@@ -171,8 +182,26 @@ var OpenSBG = {
       html += '<p><a href="' + object.webspace + '">' + object.webspace + '</a></p>';
     if(object.oeffnungszeiten)
       html += '<p>Öffnungszeiten:<br />' + object.oeffnungszeiten + '</p>';
-    html += '<p>zuletzt geändert: ' + object.timestamp + '</p>';
 
     return html;
+  },
+  
+  show : function(category) {
+    for(var i = 0; i < OpenSBG.array.length; i++) {
+      if(OpenSBG.array[i].category == category) {
+        OpenSBG.array[i].setVisible(true);
+      }
+    }
+  },
+  
+  hide : function(category) {
+    for(var i = 0; i < OpenSBG.array.length; i++) {
+      if(OpenSBG.array[i].category == category) {
+        OpenSBG.array[i].setVisible(false);
+      }
+    }
+    
+    if(OpenSBG.infowindow)
+      OpenSBG.infowindow.close();
   }
 };

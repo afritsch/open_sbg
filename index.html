@@ -1,18 +1,12 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-  
-    <title>OpenSBG</title>
-    
-    <meta charset="UTF-8" />
+    <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     
+    <title>OpenSBG</title>
+    
     <link rel="stylesheet" type="text/css" href="style.css" />
-    
-    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-    <script type="text/javascript" src="logic.js"></script>
-    
   </head>
   
   <body>
@@ -23,9 +17,20 @@
     <div id="sidebar">
       <div id="selector">
         <a id="defaultView">Standard-Ansicht wählen</a>
-        <form  action ="index.html">
-          <input class="checkbox" type="checkbox" name="police" value="police"> Polizei
-          <input class="checkbox" type="checkbox" name="all" value="all"> Alle
+        <form action ="index.html">
+          <input type="checkbox" name="administration" class="checkbox" value="administration" checked="checked"> Amtsgebäude<br />
+          <input type="checkbox" name="service" class="checkbox" value="service" checked="checked"> Bewohnerservicestellen<br />
+          <input type="checkbox" name="finance" class="checkbox" value="finance" checked="checked"> Finanzämter<br />
+          <input type="checkbox" name="truck" class="checkbox" value="truck" checked="checked"> Kraftfahrzeugzulassungsbehörde<br />
+          <input type="checkbox" name="gym" class="checkbox" value="gym" checked="checked"> Gymnasien<br />
+          <input type="checkbox" name="specialschool" class="checkbox" value="specialschool" checked="checked"> Sonderschulen<br />
+          <input type="checkbox" name="school" class="checkbox" value="school" checked="checked"> Hauptschulen / Volksschulen<br />
+          <input type="checkbox" name="post" class="checkbox" value="post" checked="checked"> Postämter<br />
+          <input type="checkbox" name="police" class="checkbox" value="police" checked="checked"> Polizei<br />
+          <input type="checkbox" name="firestation" class="checkbox" value="firestation" checked="checked"> Feuerwehr<br />
+          <input type="checkbox" name="justice" class="checkbox" value="justice" checked="checked"> Justiz-Gebäude<br />
+          <input type="checkbox" name="swimming" class="checkbox" value="swimming" checked="checked"> Schwimmbäder<br />
+          <input type="checkbox" name="kurhaus" class="checkbox" value="kurhaus" checked="checked"> Kurhäuser<br />
         </form>
       </div>
       <div id="info">
@@ -34,6 +39,9 @@
     <div id="footer">
       marker icons by mapicons.nicolasmollet.com
     </div>
+    
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="logic.js"></script>
   </body>
-
 </html>
