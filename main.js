@@ -121,7 +121,7 @@ var OpenSBG = {
           object.category += 'default';
           
         /* choose correct marker image */
-        object.image = 'markers/' + object.category + '.png';
+        object.image = 'style/images/markers/' + object.category + '.png';
 
         /* create marker */
         OpenSBG.map.addMarker(OpenSBG.createMarker(object, object.point));
@@ -164,7 +164,7 @@ var OpenSBG = {
       
       /* load comments */
       $.ajax({
-        url: 'comments.php',
+        url: 'php/comments.php',
         data: { q: object.id },
         success: function(data) {
           $('#comments').html(data);
