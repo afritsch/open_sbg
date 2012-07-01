@@ -24,7 +24,7 @@
   });
   
   $('.checkbox').change(function() {      
-    $(this).is(':checked') ? OpenSBG.show($(this).val()) : OpenSBG.hide($(this).val());
+    $(this).is(':checked') ? OpenSBG.showMarkers($(this).val()) : OpenSBG.hideMarkers($(this).val());
   });
 });
 
@@ -32,9 +32,9 @@ var OpenSBG = {
   map : null,
   bounds : null,
   infowindow : null,
-  array : new Array(),
+  markers : new Array(),
 
-  init : function(canvas, lat, lng, zoom, type) {    
+  init : function(canvas, lat, lng, zoom, type) {
     var options = {
       center : new google.maps.LatLng(lat, lng),
       zoom : zoom,
@@ -63,7 +63,7 @@ var OpenSBG = {
   },
 
   placeMarkers : function(filename) {
-    $.get(filename, function(xml) {    
+    $.get(filename, function(xml) {
       $(xml).find('gml\\:featureMember, featureMember').each(function() {
         var object = new Object();
 
@@ -140,7 +140,7 @@ var OpenSBG = {
     marker.category = object.category;
     
     /* push the marker in a marker array */
-    OpenSBG.array.push(marker);
+    OpenSBG.markers.push(marker);
 
     google.maps.event.addListener(marker, 'click', function() {
       /* info window on click */
@@ -186,18 +186,18 @@ var OpenSBG = {
     return html;
   },
   
-  show : function(category) {
-    for(var i = 0; i < OpenSBG.array.length; i++) {
-      if(OpenSBG.array[i].category == category) {
-        OpenSBG.array[i].setVisible(true);
+  showMarkers : function(category) {
+    for(var i = 0; i < OpenSBG.markers.length; i++) {
+      if(OpenSBG.markers[i].category == category) {
+        OpenSBG.markers[i].setVisible(true);
       }
     }
   },
   
-  hide : function(category) {
-    for(var i = 0; i < OpenSBG.array.length; i++) {
-      if(OpenSBG.array[i].category == category) {
-        OpenSBG.array[i].setVisible(false);
+  hideMarkers : function(category) {
+    for(var i = 0; i < OpenSBG.markers.length; i++) {
+      if(OpenSBG.markers[i].category == category) {
+        OpenSBG.markers[i].setVisible(false);
       }
     }
     
