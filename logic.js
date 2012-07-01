@@ -23,7 +23,7 @@
     OpenSBG.defaultView(zoom);
   });
   
-  $('.checkbox').change(function() {      
+  $('.checkbox').change(function() {
     $(this).is(':checked') ? OpenSBG.showMarkers($(this).val()) : OpenSBG.hideMarkers($(this).val());
   });
 });
@@ -125,6 +125,12 @@ var OpenSBG = {
         /* create marker */
         OpenSBG.map.addMarker(OpenSBG.createMarker(object, object.point));
         OpenSBG.bounds.extend(object.point);
+        
+        /* hide markers on page reload */
+        $('.checkbox').each(function() {
+          if(!$(this).is(':checked'))
+            OpenSBG.hideMarkers($(this).val());
+        });
       });
     });
   },
