@@ -68,6 +68,7 @@ var OpenSBG = {
         var object = new Object();
 
         /* assign info to object */
+        object.id = $(this).find('gmgml\\:GDO_GID, GDO_GID').text();
         object.bereich = $(this).find('gmgml\\:BEREICH, BEREICH').text();
         object.bezeichnung = $(this).find('gmgml\\:BEZEICHNUNG, BEZEICHNUNG').text();
         object.beschreibung = $(this).find('gmgml\\:BESCHREIBUNG, BESCHREIBUNG').text();
@@ -160,6 +161,15 @@ var OpenSBG = {
 
       /* sidebar info on click */
       $('#info').html(OpenSBG.showSidebarInfo(object));
+      
+      /* load comments */
+      $.ajax({
+        url: 'comments.php',
+        data: { q: object.id },
+        success: function(data) {
+          $('#comments').html(data);
+        }
+      });
     });
 
     return marker;
