@@ -23,6 +23,7 @@
     OpenSBG.defaultView(zoom);
   });
   
+  /* show or hide markers */
   $('.checkbox').change(function() {
     $(this).is(':checked') ? OpenSBG.showMarkers($(this).val()) : OpenSBG.hideMarkers($(this).val());
   });
@@ -43,23 +44,6 @@ var OpenSBG = {
 
     this.map = new google.maps.Map(document.getElementById(canvas), options);
     this.bounds = new google.maps.LatLngBounds();
-
-    OpenSBG.defaultView(zoom);
-  },
-
-  defaultView : function (zoom) {
-    OpenSBG.map.fitBounds(OpenSBG.bounds);
-
-    var zoomChangeBoundsListener = google.maps.event.addListenerOnce(OpenSBG.map, 'bounds_changed', function(event) {
-      if(OpenSBG.map.getZoom()) OpenSBG.map.setZoom(zoom);
-    });
-
-    setTimeout(function() {
-      google.maps.event.removeListener(zoomChangeBoundsListener)
-    }, 2000);
-
-    if(OpenSBG.infowindow)
-      OpenSBG.infowindow.close();
   },
 
   placeMarkers : function(filename) {
@@ -162,12 +146,48 @@ var OpenSBG = {
       /* sidebar info on click */
       $('#info').html(OpenSBG.showSidebarInfo(object));
       
-      /* load comments */
+      /* load comments and new comment form */
+      var html = '<h3>Kommentare</h3>';
+      
       $.ajax({
         url: 'php/comments.php',
-        data: { q: object.id },
+        data: { q : object.id },
         success: function(data) {
-          $('#comments').html(data);
+          html += data +
+            '<form id="new_comment" action ="index.html" method="post">' +
+              '<input type="hidden" name="institution_id" value="' + object.id + '" />' +
+              '<label for="usermail">E-Mail (erforderlich)</label>' +
+              '<input type="text" name="usermail" value="" /><br />' +
+              '<label for="username">Benutzername</label>' +
+              '<input type="text" name="username" value="" /><br />' +
+              '<label for="comment_title">Titel</label>' +
+              '<input type="text" name="comment_title" value="" /><br />' +
+              '<label for="comment_content">Kommentar (erforderlich)</label>' +
+              '<textarea name="comment_content"></textarea><br />' +
+              '<button type="submit">Abenden</button>' +
+            '</form>';
+            
+          $('#comments').html(html);
+                    
+          $('#new_comment').submit(function() {
+            var institution_id = $('#new_comment input[name="institution_id"]').val();
+            var usermail = $('#new_comment input[name="usermail"]').val();
+            var username = $('#new_comment input[name="username"]').val();
+            var comment_title = $('#new_comment input[name="comment_title"]').val();
+            var comment_content = $('#new_comment textarea[name="comment_content"]').val();
+            
+            $.ajax({
+              type : 'POST',
+              url : 'php/comments.php',
+              data : {
+                institution_id : institution_id,
+                usermail : usermail,
+                username : username,
+                comment_title : comment_title,
+                comment_content : comment_content
+              }
+            });
+          });
         }
       });
     });
