@@ -145,7 +145,30 @@ var OpenSBG = {
 
       /* sidebar info on click */
       $('#info').html(OpenSBG.showSidebarInfo(object));
-      
+
+      /* rating */
+      $.ajax({
+        type : 'POST',
+        url : 'php/ratings.php',
+        data : { event : 'load', institution_id : object.id },
+        success : function(data) {     
+          $('#rating').raty({
+            score: data,
+            click: function(rating, event) {
+              $.ajax({
+                type : 'POST',
+                url : 'php/ratings.php',
+                data : { event : 'click', institution_id : object.id, rating : rating }
+              });
+            },
+            path : 'style/images/',
+            width : 215
+          });
+          $('#rating').prepend('Bewerten:');
+          $('#rating').append(data);
+        }
+      });
+            
       /* load comments and new comment form */
       var html = '<h3>Kommentare</h3>';
       
