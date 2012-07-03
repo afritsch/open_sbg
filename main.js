@@ -172,30 +172,32 @@ var OpenSBG = {
         data: { q : object.id },
         success: function(data) {
           html += data +
-            '<table>' +
-              '<form id="new_comment" action ="index.html" method="post">' +
+            '<form id="new_comment" action ="index.html" method="post">' +
+              '<input type="hidden" name="institution_id" value="' + object.id + '" />' +
+              '<table>' +
                 '<tr>' +
-                  '<input type="hidden" name="institution_id" value="' + object.id + '" />' +
                   '<td><label for="usermail">E-Mail (erforderlich)</label></td>' +
-                  '<td><input type="text" name="usermail" value="" /><br /></td>' +
+                  '<td><input type="text" name="usermail" value="" /></td>' +
                 '</tr>' +
                 '<tr>' +
                   '<td><label for="username">Benutzername</label></td>' +
-                  '<td><input type="text" name="username" value="" /><br /></td>' +
+                  '<td><input type="text" name="username" value="" /></td>' +
                 '</tr>' +
                 '<tr>' +
-                  '<td><label for="comment_title">Titel</label></td>' +
-                  '<td><input type="text" name="comment_title" value="" /><br /></td>' +
+                '<td><label for="comment_title">Titel</label></td>' +
+                '<td><input type="text" name="comment_title" value="" /></td>' +
                 '</tr>' +
                 '<tr>' +
-                  '<td><label for="comment_content">Kommentar (erforderlich)</label></td>' +
+                  '<td colspan="2"><label for="comment_content">Kommentar (erforderlich)</label></td>' +
                 '</tr>' +
                 '<tr>' +
-                  '<td><textarea name="comment_content"></textarea><br /></td>' +
+                  '<td colspan="2"><textarea name="comment_content"></textarea></td>' +
                 '</tr>' +
-                '<tr><td><button type="submit">Abenden</button></td></tr>' +
-              '</form>' +
-            '</table>';
+                '<tr>' +
+                  '<td colspan="2"><button type="submit">Abenden</button></td>' +
+                '</tr>' +
+              '</table>' + 
+            '</form>';
             
           $('#comments').html(html);
                     

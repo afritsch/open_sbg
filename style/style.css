@@ -5,6 +5,7 @@
 body {
   height: 100%;
   margin: 0;
+  font-family: 'Trebuchet MS',Arial,Helvetica,sans-serif;
 }
 
 #map_canvas {
@@ -32,7 +33,16 @@ body {
   background: #ededed;
 }
 
-h2 {
+h1 {
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 24px;
+}
+
+h1, h2 {
   margin: 0;
   padding: 0;
+}
+
+.small {
+  font-size: 10px;
 }
