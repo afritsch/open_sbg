@@ -17,17 +17,22 @@ body {
   float: left;
   width: 30%;
   height: 85%;
-  background: #fc0;
+  background: #ededed;
   overflow-y: scroll;
 }
 
 #header {
   height: 5%;
-  background: #f00;
+  background: #ededed;
 }
 
 #footer {
   clear: both;
   height: 10%;
-  background: #0f0;
+  background: #ededed;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
 }

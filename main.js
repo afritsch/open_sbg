@@ -17,11 +17,6 @@
   /* initialize map and place markers */
   OpenSBG.init(canvas, lat, lng, zoom, type);
   OpenSBG.placeMarkers(xmlFile);
-
-  /* show default view */
-  $('#defaultView').click(function() {
-    OpenSBG.defaultView(zoom);
-  });
   
   /* show or hide markers */
   $('.checkbox').change(function() {
@@ -177,18 +172,30 @@ var OpenSBG = {
         data: { q : object.id },
         success: function(data) {
           html += data +
-            '<form id="new_comment" action ="index.html" method="post">' +
-              '<input type="hidden" name="institution_id" value="' + object.id + '" />' +
-              '<label for="usermail">E-Mail (erforderlich)</label>' +
-              '<input type="text" name="usermail" value="" /><br />' +
-              '<label for="username">Benutzername</label>' +
-              '<input type="text" name="username" value="" /><br />' +
-              '<label for="comment_title">Titel</label>' +
-              '<input type="text" name="comment_title" value="" /><br />' +
-              '<label for="comment_content">Kommentar (erforderlich)</label>' +
-              '<textarea name="comment_content"></textarea><br />' +
-              '<button type="submit">Abenden</button>' +
-            '</form>';
+            '<table>' +
+              '<form id="new_comment" action ="index.html" method="post">' +
+                '<tr>' +
+                  '<input type="hidden" name="institution_id" value="' + object.id + '" />' +
+                  '<td><label for="usermail">E-Mail (erforderlich)</label></td>' +
+                  '<td><input type="text" name="usermail" value="" /><br /></td>' +
+                '</tr>' +
+                '<tr>' +
+                  '<td><label for="username">Benutzername</label></td>' +
+                  '<td><input type="text" name="username" value="" /><br /></td>' +
+                '</tr>' +
+                '<tr>' +
+                  '<td><label for="comment_title">Titel</label></td>' +
+                  '<td><input type="text" name="comment_title" value="" /><br /></td>' +
+                '</tr>' +
+                '<tr>' +
+                  '<td><label for="comment_content">Kommentar (erforderlich)</label></td>' +
+                '</tr>' +
+                '<tr>' +
+                  '<td><textarea name="comment_content"></textarea><br /></td>' +
+                '</tr>' +
+                '<tr><td><button type="submit">Abenden</button></td></tr>' +
+              '</form>' +
+            '</table>';
             
           $('#comments').html(html);
                     
@@ -222,7 +229,7 @@ var OpenSBG = {
     var html = '';
 
     html += '<h4>' + object.bereich + '</h4>';
-    html += '<h1>' + object.bezeichnung + '</h1>';
+    html += '<h2>' + object.bezeichnung + '</h2>';
     html += '<p>' + object.adresse;
     if(object.ort)
       html += ', ' + object.ort;
